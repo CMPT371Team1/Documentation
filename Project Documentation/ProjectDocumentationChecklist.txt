@@ -1,0 +1,13 @@
+Handing in project documentation at each of the 5 incremental deliverables required to provide
+information to the instructor and tutor as to the state of the project.
+- Clear documentation of requirements
+- Simple prototypes for the UI (mostly on paper) and for areas of particular risk
+- Initial and ongoing contact with clients/users to validate the requirements and receive feedback on
+product progress. A documented form of this contact should take place at least one time per
+incremental deliverable. Where this is not possible due to continued unavailability of or lack of
+communication from a client for more than one iteration of the project, please notify the instructor
+immediately. 
+-Aggressive up-front and ongoing risk management, including through an accountable risk officer. This
+should include risk scanning on a periodic basis (at least once for each deliverable).
+- Creation and updating of the identity and status of clear binary “mini-milestones” for the product. Each
+such mini-milestone should indicate that a task is either complete or not complete
