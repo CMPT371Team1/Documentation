@@ -1,5 +1,53 @@
+Date: Jan 8
+Estimated duration: NA
+Actual duration: 5
+Topic: Send emails, set up surveys, slack, etc.
+Peer Reviewed? -
 
-Date:
+---
+
+Date: Jan 11
+Estimated duration: NA
+Actual duration: 3
+Topic: Prepare for meeting, setup Agenda, Minues, etc.
+Peer Reviewed? No.
+
+---
+
+Date: Jan 13
+Estimated duration:
+Actual duration: 1
+Topic: Send emails, ensure consistency
+Peer Reviewed? -
+
+---
+
+Date: Jan 14  
+Estimated duration:NA
+Actual duration:5
+Topic:Inspection and Risks
+Peer Reviewed? Yes - formally inspected.
+
+---
+
+Date: Jan 19
+Estimated duration: 2
+Actual duration: 2.5
+Topic: Breaking down syllabus specifications to inform team. Setting up Git documentation and checklist.
+Peer Reviewed? No. To be submitted for inspection on Jan 27.
+
+---
+
+Date: Jan 20
+Estimated duration: 3
+Actual duration: 4
+Topic: Fixing scheduling information and other documentation setup
+Peer Reviewed? No. to be submitted for inspection on Jan 27.
+
+
+---
+
+Date: 
 Estimated duration:
 Actual duration:
 Topic:
@@ -7,7 +55,7 @@ Peer Reviewed?
 
 ---
 
-Date:
+Date: 
 Estimated duration:
 Actual duration:
 Topic:
@@ -15,12 +63,19 @@ Peer Reviewed?
 
 ---
 
-Date:
+Date: 
 Estimated duration:
 Actual duration:
 Topic:
 Peer Reviewed?
 
+---
+
+Date: 
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
 
 ---
 
