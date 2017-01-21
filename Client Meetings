@@ -4,7 +4,11 @@ Time: 12:30 a.m.
 Location: Geology Tim Hortons
 People present: Client - Conrad N., PL - Tushita Patel, DevL - Kristof Mercier
 Purpose: First Meeting - requiremens overview
-Summary:
+Summary: Conrad, the CEO talked about his vision for the app. It should be very similar to the existing Zillow app in store. He is also very open to new suggestions and is willing for us to try various ideas. It was also decided that the Project Lead and Dev Lead would have weekly meetings with Conrad every Thursday at 11:30 a.m. in the Geol Tim Hortons.
+
+On January 17, the client, Conrad, emailed the team with specific features that he wished to have in the app. The email also included some information about the platforms that are currently being used. The client was also presented with a sketch of user interface, which he approved. Furthermore, information such as current server provider (Amazon S3), backend language (Ruby), and front-end platform (html, css) is currently being used for the app.
+
+On January 18, the CTO was contacted for further clarifications that Conrad could not answer. There currently isn't a coding style which is being followed, but the CTO promised to provide with a sample code, so we can mimic it for our project. The previous app was built using Ionic version 1, but the CTO is aiming to change it to version 2, which is what he requires us to work with. The CTO also informed us that their app uses an API to extract, submit data to the server. 
 
 #2
 Date: Thursday, January 19
@@ -12,7 +16,7 @@ Time: 11:30 a.m.
 Location: Geology Tim Hortons
 People present: Client - Conrad N., PL - Tushita Patel, DevL - Kristof Mercier, Dev - Dylan
 Purpose: Server side querries and other requirements clarifications
-Summary:
+Summary: It was decided that the app should be a stand-alone app instead of a feature in an existing app. Conrad also confirmed that he will buy a server domain by that afternoon, and that we should go ahead with the current User Interface design.
 
 #3
 Date:
