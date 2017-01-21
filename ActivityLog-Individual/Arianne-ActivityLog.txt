@@ -1,25 +1,25 @@
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Monday January 16th /17
+Estimated duration: N/A
+Actual duration: 4.25 hours
+Topic: Creating GUI Mockups
+Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Friday January 20th /17
+Estimated duration: 3 hours
+Actual duration: 5 hours
+Topic: Creating more GUI Mockups / Editing old / Organizing Requirements Doc Draft
+Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Saturday January 21st /17
+Estimated duration: 1 hour
+Actual duration: 2.5 hours
+Topic: Editing GUI Mockups as per team requests made via Slack
+Peer Reviewed? No
 
 
 ---
