@@ -1,25 +1,25 @@
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: January 17th
+Estimated duration: 2 hours
+Actual duration: 4 hours
+Topic: Setting up TravisCI
+Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: January 18th
+Estimated duration: 1.5 hours
+Actual duration: 1.5 hours
+Topic: Rough creation of UI flow diagrams using GUI Mockup
+Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: January 21st
+Estimated duration: 1 hour
+Actual duration: 2.5 hours
+Topic: Editing UI flow diagrams, creating new flow diagram according to new GUI Mockup specifications
+Peer Reviewed? No
 
 
 ---
