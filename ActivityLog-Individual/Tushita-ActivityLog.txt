@@ -40,17 +40,17 @@ Peer Reviewed? No. To be submitted for inspection on Jan 27.
 
 Date: Jan 20
 Estimated duration: 3
-Actual duration: 4
+Actual duration: 5
 Topic: Fixing scheduling information and other documentation setup
 Peer Reviewed? No. to be submitted for inspection on Jan 27.
 
 
 ---
 
-Date: 
-Estimated duration:
-Actual duration:
-Topic:
+Date: Jan 21
+Estimated duration: 2
+Actual duration: 4
+Topic: ReSurvey result (Time Avaliablity) analysis, assignment of requirements doc responsibility to team
 Peer Reviewed?
 
 ---
