@@ -1,3 +1,27 @@
+Date: before 1/14/2017
+Estimated duration: 2 hours
+Actual duration: 2 hours
+Topic: Created list of pro's and con's of the different project pitches.
+Peer Reviewed: N
+
+---
+
+Date: 1/14/2017 to 1/19/2017
+Estimated duration: 10 hours
+Actual duration: 7 hours
+Topic: Familiarized myself with NodeJS, Cordova, Ionic v2, JavaScript, TypeScript, AngularJS, HTML, CSS, SASS and PGSQL.
+Peer Reviewed: N
+
+---
+
+Date: 1/19/2017
+Estimated duration: 1 hour
+Actual duration: 1 hour
+Topic: Created guide for setting up development environments.
+Peer Reviewed: N
+
+---
+
 Date: 1/21/2017
 Estimated duration: 7 hours
 Actual duration: 7 hours
