@@ -54,3 +54,19 @@ Estimated duration: 6 hours
 Actual duration: 11:50-5 w/ a 30 min of break, 12:00- 12:40
 Topic: Continuing trying to get Travis and Ionic to cooperate AND THEY KINDA DID
 Peer Reviewed?
+
+--
+
+Date: Jan 22/2017
+Estimated duration: 1 hour 
+Actual duration: 2-3:40 with breaks
+Topic: getting travis to build with a lower andriod version, ended up reverting back but learnt some things in the process for when I actually set this up
+Peer Reviewed?
+
+--
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
