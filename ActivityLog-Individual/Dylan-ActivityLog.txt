@@ -35,6 +35,17 @@ Peer Reviewed: N
 
 ---
 
+Date: 1/22/2017
+Estimated duration: 6 hours
+Actual duration: 4.5 hours
+Topics:
+ - Setting up others with their development environment
+ - Creating templates for each screen.
+ - Going over some design (Data Structures, Method Headers)
+Peer Reviewed: N
+
+---
+
 Date:
 Estimated duration:
 Actual duration:
