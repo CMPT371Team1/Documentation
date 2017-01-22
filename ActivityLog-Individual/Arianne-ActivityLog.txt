@@ -1,4 +1,3 @@
-
 Date: Monday January 16th /17
 Estimated duration: N/A
 Actual duration: 4.25 hours
@@ -16,9 +15,10 @@ Peer Reviewed? No
 ---
 
 Date: Saturday January 21st /17
-Estimated duration: 1 hour
-Actual duration: 2.5 hours
-Topic: Editing GUI Mockups as per team requests made via Slack
+Estimated duration: 3 hours
+Actual duration: 5 hours
+Topic: Editing GUI Mockups as per team requests and putting together First Draft for 
+       ID2 Document
 Peer Reviewed? No
 
 
