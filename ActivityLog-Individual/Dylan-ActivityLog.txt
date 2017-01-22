@@ -1,26 +1,13 @@
-
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
-
----
-
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
-
----
-
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
-
+Date: 1/21/2017
+Estimated duration: 7 hours
+Actual duration: 7 hours
+Topics:
+ - Walking through IDE setup with Kristof, Guarav and ChrisMR
+ - Familiarized ourselves more with Ionic
+ - Created template for new pages
+ - Created rough SignIn page
+ - Setup assertions
+Peer Reviewed: N
 
 ---
 
