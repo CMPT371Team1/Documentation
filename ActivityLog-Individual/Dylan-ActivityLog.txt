@@ -46,6 +46,14 @@ Peer Reviewed: N
 
 ---
 
+Date: 1/22/2017
+Estimated duration: 1 hour
+Actual duration: 1 hour
+Topic: Grabbing page information, injecting controllers.
+Peer Reviewed: N
+
+---
+
 Date:
 Estimated duration:
 Actual duration:
