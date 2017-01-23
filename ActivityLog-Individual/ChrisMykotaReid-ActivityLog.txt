@@ -58,8 +58,8 @@ Peer Reviewed?
 --
 
 Date: Jan 22/2017
-Estimated duration: 1 hour 
-Actual duration: 2-3:40 with breaks
+Estimated duration:  5 1/2 - 6 1/2 hours 
+Actual duration: 2pm-3:40pm, 6:10pm-10:33pm, 1:00am - 2:30 with breaks
 Topic: getting travis to build with a lower andriod version, ended up reverting back but learnt some things in the process for when I actually set this up
 Peer Reviewed?
 
