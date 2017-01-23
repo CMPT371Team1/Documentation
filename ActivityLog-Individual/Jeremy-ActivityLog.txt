@@ -24,6 +24,42 @@ Peer Reviewed? No
 
 ---
 
+Date: January 22nd
+Estimated duration: 7 hours
+Actual duration: 6 hours
+Topic: Learning and trying out Jasmine testing framework, Karma and Protractor test running tools, ngMock mocking framework on tutorial project
+Peer Reviewed? No
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
 Date:
 Estimated duration:
 Actual duration:
