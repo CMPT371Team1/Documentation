@@ -54,6 +54,16 @@ Peer Reviewed: N
 
 ---
 
+Date: 1/23/2017
+Estimated duration: 3 hours
+Actual duration: 2 hours
+Topic
+ - Restyled the MainScreen.
+ - Changed MainScreen to load fake data and scroll through multiple homes.
+Peer Reviewed: N
+
+---
+
 Date:
 Estimated duration:
 Actual duration:
