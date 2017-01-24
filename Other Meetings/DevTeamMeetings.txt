@@ -1,17 +1,24 @@
 #1
-Date:
-Start Time:
-End Time:
+Date:Jan 21st
+Start Time: 11:00 am
+End Time: 
 Location:
-People present:
-Purpose:
+People present: Dylan, Chris MR, Kristof, Jeremy, Gaurav
+Purpose: To get Ionic set up, and prepare for the meeting the next day
 Summary:
 
 #2
-Date:
-Start Time:
-End Time:
-Location:
-People present:
-Purpose:
+Date:Jan 22nd
+Start Time:2:00 pm
+End Time: people came and went as was convenient though Dylan and Kristof were there for about 3 hours
+People present: Dylan, Kristof, Arianne, Chris J, Tien, Justin, Chris MR
+Purpose: To set up the IDE and Ionic on everyones machines.
+Summary: Arianne, Dylan and Kristof also discussed design for ID1 and ID2 at the end.
+
+#3
+Date:Jan 23rd
+Start Time:7:00 pm
+End Time: 8:30 pm(temporary)
+People present: 
+Purpose: To discuss Design, and assign pair programming partners for ID1
 Summary:
