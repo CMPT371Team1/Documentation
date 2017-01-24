@@ -1,17 +1,23 @@
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+//Started recording this day.
+Date:Jan 20
+Actual duration: 3h
+Topic: Organizing team and learning ionic framework.
 
+Date:Jan 21
+Actual duration: 6h
+Topic: Setting up trello/working through requirements, then setting up ionic framework with intellij.
+
+
+
+Date:Jan 22
+Actual duration: 4h
+Topic: Setting up team members with the IDE and framework, then minor work on requirements for ID2
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date:Jan  23
+Actual duration: 1.5h
+Topic: Discussing presentation and tools.
 
 ---
 
