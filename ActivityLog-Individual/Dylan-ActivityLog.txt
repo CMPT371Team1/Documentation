@@ -64,6 +64,14 @@ Peer Reviewed: N
 
 ---
 
+Date: 1/23/2017
+Estimated duration: 1 hours
+Actual duration: 1 hours
+Topic: Settings up service providers to make HTTP POST/GET requests.
+Peer Reviewed: N
+
+---
+
 Date:
 Estimated duration:
 Actual duration:
