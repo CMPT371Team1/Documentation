@@ -33,20 +33,20 @@ Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: January 23rd
+Estimated duration: 3 hours
+Actual duration: 1 hour
+Topic: Learning and trying out Istanbul test coverage tool on tutorial project
+Peer Reviewed? No
 
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: January 17th-24th
+Estimated duration: 5 hours
+Actual duration: 5 hours
+Topic: Read "Testing Computer Software" textbook on testing objectives and limits, types of testing, software errors, reporting/analyzing bugs, managing a testing group. 
+Peer Reviewed? No
 
 
 ---
