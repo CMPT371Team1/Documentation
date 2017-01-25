@@ -18,7 +18,7 @@ Summary: Arianne, Dylan and Kristof also discussed design for ID1 and ID2 at the
 #3
 Date:Jan 23rd
 Start Time:7:00 pm
-End Time: 8:30 pm(temporary)
-People present: 
+End Time: 8:10 pm(temporary)
+People present: Arianne, Dylan, Gaurav, Dylan, Kristof, Justin, Tushita came by briefly
 Purpose: To discuss Design, and assign pair programming partners for ID1
-Summary:
+Summary: 
