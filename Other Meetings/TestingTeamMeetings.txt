@@ -1,7 +1,7 @@
 #1
 Date: Jan 26th
 Start Time: 3:30 PM
-End Time: 4:30 PM
+End Time: 5:00 PM
 Location: Spink 372
 People present: Tushita, ChrisMR, ChrisJ, Dylan, Ryan, Jeremy, Kristof
 Purpose: Go over testing tools, explain end-to-end testing, decide on approach to UI testing
