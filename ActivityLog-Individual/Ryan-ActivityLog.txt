@@ -1,21 +1,27 @@
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Jan 22
+Estimated duration: 2 hours
+Actual duration: 2 hours
+Topic: Risk assessment Document
+Peer Reviewed?No
+---
+
+Date: Jan 22
+Estimated duration: 1.5 hours
+Actual duration: 1.5 hours
+Topic: research for testing
+Peer Reviewed? No
+---
+
+Date: Jan 24
+Estimated duration: 1.5 hours
+Actual duration: 1.5 hours
+Topic: Risk assessment Document
+Peer Reviewed?No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
-
----
-
-Date:
+Date: 
 Estimated duration:
 Actual duration:
 Topic:
