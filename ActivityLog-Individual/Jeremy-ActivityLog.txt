@@ -51,11 +51,11 @@ Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: January 26th
+Estimated duration: 1 hour
+Actual duration: 1.5 hours
+Topic: Test team meeting preparation, sending questions to Osgood, researching mocking tools for Angular2 (Angular-Mocks might be Angular1 only)
+Peer Reviewed? No
 
 
 ---
