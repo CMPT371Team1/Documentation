@@ -55,18 +55,18 @@ Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration:
-Actual duration:
-Topic:
+Date: Jan 22      
+Estimated duration: 3
+Actual duration: 6
+Topic: Answering team's questions
 Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration:
-Actual duration:
-Topic:
+Date: Jan 23  
+Estimated duration: 3
+Actual duration: 0.5
+Topic: Domain setup, communcation with client
 Peer Reviewed?
 
 ---
