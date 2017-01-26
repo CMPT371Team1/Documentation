@@ -1,4 +1,13 @@
 #1
+Date: Jan 26th
+Start Time: 3:30 PM
+End Time: 4:30 PM
+Location: Spink 372
+People present: Tushita, ChrisMR, ChrisJ, Dylan, Ryan, Jeremy
+Purpose: Go over testing tools, explain end-to-end testing, decide on approach to UI testing
+Summary: Need to ask Osgood if testing is done in another branch, find a new mocking framework because Angular-Mock probably doesn't work with Angular2 (do we need one?), need to research how to test on iOS and Android.
+
+#2
 Date:
 Start Time:
 End Time:
@@ -7,7 +16,7 @@ People present:
 Purpose:
 Summary:
 
-#2
+#3
 Date:
 Start Time:
 End Time:
