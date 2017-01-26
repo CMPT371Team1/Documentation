@@ -22,11 +22,23 @@ A reminder email was sent to Conrad on Friday afternoon - Jan 20, because we had
 As per Jan 22, we are still waiting for the CTO to get back to us regarding further clarifications. In the evening of Jan 22, the CTO replied to the email. He said that it is not necessary to use Ruby, now that it is a standalone app, and they don't currently use any CI tool, so we are free to choose one. 
 
 #3
+Date: Thursday, January 26
+Time: 11:30 a.m.
+Location: Geology Tim Hortons
+People present: Client - Conrad N., PL - Tushita Patel, DevL - Kristof Mercier
+Purpose: Clarify questions about features, address domain receival issues
+Summary: Upon discussion about the sign-up feature of the app, the Client suggested to allow users to log in using their facebook accounts. 
+Furthermore, each listing much have at least one picture. No listing would be allowed to exist without pictures of the property. 
+It is also a good idea to have the users - (users who are putting up their property on sale) to be able to save their listing before it is released, so they can come back to it to be able to further edit it before it is released.
+The client does not want the users to put up their pictures/avatar to associate with their account.
+It was also decided that when a new user signs up, they should not have a separate username. In fact, their email should serve as the username for their account. Alternatively, they could use facebook to log in for next times.
+
+
+#4
 Date:
 Time:
 Location:
 People present:
 Purpose:
 Summary:
-
 
