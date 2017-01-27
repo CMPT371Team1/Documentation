@@ -22,3 +22,11 @@ End Time: 8:10 pm(temporary)
 People present: Arianne, Dylan, Gaurav, Dylan, Kristof, Justin, Tushita came by briefly
 Purpose: To discuss Design, and assign pair programming partners for ID1
 Summary: 
+
+#4
+Date:Jan 26th
+Start Time: 6:00pm
+End Time: 8:00
+People Present: Arianne, Dylan, Kristof, Gaurav, Tien, Justin, Tushita, Jeremy.
+Purpose: To finish duscussing the design of the models and database.
+Summary: Solidified data structures. Got everyone up to date with the overall structure of the models.
