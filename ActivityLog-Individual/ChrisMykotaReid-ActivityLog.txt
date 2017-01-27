@@ -65,8 +65,8 @@ Peer Reviewed?
 
 --
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Jan 26/2017
+Estimated duration: 5 hours
+Actual duration: 6-12 with ~1 hour of breaks 
+Topic: getting a browser build working, fixing new issues that came up some how, started figuring out how to post build logs to git
 Peer Reviewed?
