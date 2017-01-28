@@ -21,11 +21,28 @@ Topic: Editing GUI Mockups as per team requests and putting together First Draft
        ID2 Document
 Peer Reviewed? No
 
+---
+
+Date: Sunday January 22nd /17
+Estimated duration: N/A
+Actual duration: 3.5 hours
+Topic: - Updating Requirements Draft and Requirements Task Log 
+       - Touching base with group members about assigned tasks
+       - Starting on Design with Kristof and Dylan
+Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: January 27th /17
+Estimated duration: 2 h 
+Actual duration: 2 h 
+Topic: Pair Programming with Tian and Dylan 
+Peer Reviewed? No 
+
+---
+
+Date: January 28th /17
+Estimated duration: 2 h 
+Actual duration: 2.5 h 
+Topic: Working on Filters Page and ID1 Documentation 
+Peer Reviewed? No 
