@@ -71,16 +71,40 @@ Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration:
-Actual duration:
-Topic:
+Date: Jan 23
+Estimated duration: 0.5
+Actual duration: 2
+Topic: Make presentation to present - meet up with tomorrow's presenters
 Peer Reviewed?
 
 ---
 
-Date:
-Estimated duration:
+Date: Jan 24  
+Estimated duration: 1
+Actual duration: 1
+Topic: Prepare presentation - practice
+Peer Reviewed?
+
+---
+
+Date: Jan 26
+Estimated duration: 1
+Actual duration: 1
+Topic: Prepare for client meeting, update teeam about decisions amde post client meeting
+Peer Reviewed?
+
+---
+
+Date: Jan 27
+Estimated duration: 1
+Actual duration:2
+Topic:Prepeare for formal inspection + changes post inspections
+Peer Reviewed? Yes
+
+---
+
+Date: Jan 28
+Estimated duration: 2
 Actual duration:
-Topic:
+Topic: Documentation - formal inspections, platform;  communication with team members
 Peer Reviewed?
