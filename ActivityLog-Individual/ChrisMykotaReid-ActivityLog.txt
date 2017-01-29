@@ -55,7 +55,7 @@ Actual duration: 11:50-5 w/ a 30 min of break, 12:00- 12:40
 Topic: Continuing trying to get Travis and Ionic to cooperate AND THEY KINDA DID
 Peer Reviewed?
 
---
+---
 
 Date: Jan 22/2017
 Estimated duration:  5 1/2 - 6 1/2 hours 
@@ -63,10 +63,35 @@ Actual duration: 2pm-3:40pm, 6:10pm-10:33pm, 1:00am - 2:30 with breaks
 Topic: getting travis to build with a lower andriod version, ended up reverting back but learnt some things in the process for when I actually set this up
 Peer Reviewed?
 
---
+---
 
 Date: Jan 26/2017
 Estimated duration: 5 hours
 Actual duration: 6-12 with ~1 hour of breaks 
 Topic: getting a browser build working, fixing new issues that came up some how, started figuring out how to post build logs to git
 Peer Reviewed?
+
+
+Date: Jan 27/2017
+Estimated duration: 4
+Actual duration: 4 1/2
+Topic: trying different methods of downloading androids packages
+Peer Reviewed?
+
+---
+
+Date: Jan 28/2017
+Estimated duration: 5
+Actual duration: 5
+Topic: travis bugs, finally got android build working AGAIN
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
