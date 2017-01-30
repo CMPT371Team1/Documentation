@@ -3,15 +3,15 @@
 
 Project Lead: Tushita Patel
 
-Dev Lead: Kristof Mercier
+Dev Lead: Dylan Prefontaine
 
-Developers: Arianne Butler, Gaurav Arora, Melody Zhao, Dylan Prefontaine, Justin Ma
+Developers: Arianne Butler, Gaurav Arora, Melody Zhao, Kristof Mercier, Justin Ma
 
 Test Lead: Jeremy Liau
 
 Testers: Ryan Tetland, Chris May
 
-BuildManager: Chris Mykota Reid
+Build Manager: Chris Mykota Reid
 
 ---
 
