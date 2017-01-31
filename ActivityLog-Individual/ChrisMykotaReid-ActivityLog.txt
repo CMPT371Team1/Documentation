@@ -88,6 +88,38 @@ Peer Reviewed?
 
 ---
 
+Date: Jan 29/2017
+Estimated duration: 30 min   
+Actual duration: 30 min
+Topic: setting up env vars, learning more and more by breaking the build then having to re-build it
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
 Date: 
 Estimated duration: 
 Actual duration: 
