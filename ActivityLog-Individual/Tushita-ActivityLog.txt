@@ -108,3 +108,11 @@ Estimated duration: 2
 Actual duration:
 Topic: Documentation - formal inspections, platform;  communication with team members
 Peer Reviewed?
+
+---
+
+Date: Jan 31
+Estimated duration: 1
+Actual duration: 1
+Topic: prep - meeting, changes to slack setup 
+Peer Reviewed?
