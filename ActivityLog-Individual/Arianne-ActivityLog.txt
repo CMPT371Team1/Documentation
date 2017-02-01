@@ -1,3 +1,7 @@
+Arianne Butler
+CMPT 371 Work Log
+
+
 Date: Monday January 16th /17
 Estimated duration: N/A
 Actual duration: 4.25 hours
@@ -17,9 +21,10 @@ Peer Reviewed? No
 Date: Saturday January 21st /17
 Estimated duration: 3 hours
 Actual duration: 5 hours
-Topic: Editing GUI Mockups as per team requests and putting together First Draft for 
-       ID2 Document
+Topic: - Editing GUI Mockups as per team requests and Putting together First Draft for 
+         ID2 Document
 Peer Reviewed? No
+
 
 ---
 
@@ -45,4 +50,14 @@ Date: January 28th /17
 Estimated duration: 2 h 
 Actual duration: 2.5 h 
 Topic: Working on Filters Page and ID1 Documentation 
+Peer Reviewed? No 
+
+---
+
+Date: January 31st /17
+Estimated duration: 2 h 
+Actual duration: 3.5 h 
+Topic: - Edited Risk Assessment, Mini-Milestones, and Requirements
+       - Updated documents on Git to ensure all team members know 
+         what is expected of them for the ID-1 Document 
 Peer Reviewed? No 
