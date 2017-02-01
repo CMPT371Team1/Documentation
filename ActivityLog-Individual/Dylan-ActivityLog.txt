@@ -72,6 +72,15 @@ Peer Reviewed: N
 
 ---
 
+Date: 1/31/2017
+Estimated duration: 2 hours
+Actual duration: 2 hours
+Topic: Polishing the sign-in page and settings page
+Peer Reviewed: N
+
+
+---
+
 Date:
 Estimated duration:
 Actual duration:
