@@ -116,3 +116,27 @@ Estimated duration: 1
 Actual duration: 1
 Topic: prep - meeting, changes to slack setup 
 Peer Reviewed?
+
+---
+
+Date: Feb 1
+Estimated duration: 0.5
+Actual duration: 0.5
+Topic: Documentation - formal inspection - Scheduling 
+Peer Reviewed?
+
+---
+
+Date: Feb 2
+Estimated duration: 0.5
+Actual duration: 0.5
+Topic: collect surveying results  
+Peer Reviewed?
+
+---
+
+Date: Feb 2
+Estimated duration: 5
+Actual duration: 
+Topic: Fix documentation 
+Peer Reviewed?
