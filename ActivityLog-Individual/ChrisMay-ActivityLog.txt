@@ -19,7 +19,11 @@ Topic: Use Cases
 Peer Reviewed? informally
 
 ---
-
+Date: Jan 23
+Estimated duration: 2 hours
+Actual duration: 2 hours
+Topic: Trying out test tools on dummy
+Peer Reviewed? no
 
 Date: Jan 25
 Estimated duration: 1 hours
