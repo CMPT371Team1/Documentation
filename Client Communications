@@ -35,6 +35,7 @@ It was also decided that when a new user signs up, they should not have a separa
 
 On Monday, January 30th, Conrad emailed the project lead and the dev lead and requested to CANCEL the upcoming meeting on Thursday. The purpose of the meeting was to show him the progress and talk about the goals for the next ID. Because of his absence, this shall be done via an exchange of emails between the Project Lead and the Client on the weekend of Feb 4th.
 
+An email was sent to the CTO Raul (and cc’ed to Conrad) with questions about the database setup on Tuesday, January 31st. After the team meeting, a couple of developers wanted to get started on the backend portion of the development (which is a goal for ID2) and wanted to clarify with the CTO if they had to produce procedures that would be compatible with Amazon S3. The CTO replied the next day informing that there is no strictness towards using services from Amazon S3. 
 #4
 Date:
 Time:
