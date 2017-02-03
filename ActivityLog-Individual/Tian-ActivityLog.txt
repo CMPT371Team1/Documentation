@@ -47,7 +47,7 @@ Date: Jan 28, 2017
 Estimated duration: 3 hours
 Actual duration: 3.5 hours
 Topic: Configuration for back-end set-up
-Peer Reviewed?
+Peer Reviewed? No.
 
 
 ---
