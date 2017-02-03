@@ -105,7 +105,7 @@ Peer Reviewed? Yes
 
 Date: Jan 28
 Estimated duration: 2
-Actual duration:
+Actual duration: 2.5
 Topic: Documentation - formal inspections, platform;  communication with team members
 Peer Reviewed?
 
@@ -137,6 +137,14 @@ Peer Reviewed?
 
 Date: Feb 2
 Estimated duration: 5
-Actual duration: 
+Actual duration: 5
 Topic: Fix documentation 
+Peer Reviewed?
+
+---
+
+Date: Feb 3
+Estimated duration: 3
+Actual duration: 3
+Topic: Platform documentation + team communication
 Peer Reviewed?
