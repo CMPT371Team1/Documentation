@@ -47,3 +47,9 @@ Estimated duration: 1 hours
 Actual duration: 1 hours
 Topic: Manual Test of Login
 Peer Reviewed? informally
+
+Date: Feb 3
+Estimated duration: 2 hours
+Actual duration: 2 hours
+Topic: Create Gannt Diagram
+Peer Reviewed? informally
