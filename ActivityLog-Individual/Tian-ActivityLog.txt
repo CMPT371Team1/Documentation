@@ -1,31 +1,67 @@
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
-
----
-
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
-
----
-
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Jan 10, 2017
+Estimated duration: 1 hour
+Actual duration:1.5 hours
+Topic: Configuration set up and integration for Git
+Peer Reviewed? No.
 
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
+Date: Jan 22, 2017
+Estimated duration: 10 hours
+Actual duration: 7.5 hours
+Topic: Started implementing browse(home) screen while slowly learning how to use ionic framework
+Peer Reviewed? No.
+
+
+---
+
+
+Date: Jan 24, 2017
+Estimated duration: 3 hours
+Actual duration:3 hours
+Topic: Initialized the main screen and tabs to my listing screen and settings screen
+Peer Reviewed? No.
+
+---
+
+Date: Jan 25, 2017
+Estimated duration: 3 hours
+Actual duration: 6 hours
+Topic:Implemented the browse screen
+Peer Reviewed? No.
+
+---
+
+
+Date: Jan 27, 2017
+Estimated duration: 2 hours
+Actual duration: 1.5 hours
+Topic: Pair programming with Arriane about filter screen
+Peer Reviewed? Yes.
+
+---
+
+Date: Jan 28, 2017
+Estimated duration: 3 hours
+Actual duration: 3.5 hours
+Topic: Configuration for back-end set-up
 Peer Reviewed?
+
+
+---
+
+Date: Jan 29, 2017
+Estimated duration: 12 hours
+Actual duration: 10 hours
+Topic: Kept implementing server-side user accounts and authentication
+Peer Reviewed? No.
+
+---
+
+Date: Feb 3, 2017
+Estimated duration: 3 hours
+Actual duration: 13:00 - 16:00
+Topic: Implementing settings screen
+Peer Reviewed? No
