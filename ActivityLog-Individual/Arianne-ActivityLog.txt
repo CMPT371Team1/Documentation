@@ -61,3 +61,15 @@ Topic: - Edited Risk Assessment, Mini-Milestones, and Requirements
        - Updated documents on Git to ensure all team members know 
          what is expected of them for the ID-1 Document 
 Peer Reviewed? No 
+
+---
+
+Date: February 2nd /17
+Estimated duration: 3 h 
+Actual duration: 6.5 h 
+Topic: - Split up ID-1 Doc into Project and Process Documents
+       - Edited Chris May's Use Cases
+       - Edited Tushita's client meetings, peer reviews, and style guide
+       - Edited doc as per Tushita's requests 
+       - Other general rearranging, editing, and adjustments 
+Peer Reviewed? No
