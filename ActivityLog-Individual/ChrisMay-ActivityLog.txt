@@ -1,31 +1,49 @@
+Date: Jan 21
+Estimated duration: 1 hours
+Actual duration: 1 hours
+Topic: research for testing
+Peer Reviewed? No
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
-
----
-
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Jan 21
+Estimated duration: 1 hours
+Actual duration: 2 hours
+Topic: research for testing
+Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Jan 22
+Estimated duration: 2 hours
+Actual duration: 2.5 hours
+Topic: Use Cases
+Peer Reviewed? informally
+
+---
+
+
+Date: Jan 25
+Estimated duration: 1 hours
+Actual duration: 1 hours
+Topic: Use Cases
+Peer Reviewed? no
 
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Feb 1
+Estimated duration: 1 hours
+Actual duration: 1 hours
+Topic: Research Gannt Diagram
+Peer Reviewed? no
+
+Date: Feb 2
+Estimated duration: 2 hours
+Actual duration: 3 hours
+Topic: Create Gannt Diagram
+Peer Reviewed? informally
+
+Date: Feb 3
+Estimated duration: 1 hours
+Actual duration: 1 hours
+Topic: Manual Test of Login
+Peer Reviewed? informally
