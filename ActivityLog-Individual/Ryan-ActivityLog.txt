@@ -21,17 +21,17 @@ Peer Reviewed?No
 
 ---
 
-Date: 
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Jan 31
+Estimated duration: 30 mins
+Actual duration: 45 mins
+Topic: Risk assessment Document
+Peer Reviewed? yes
 
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Feb 1
+Estimated duration: 2 hours
+Actual duration: 2 hours
+Topic: test matrix setup + testing plan
+Peer Reviewed? no
