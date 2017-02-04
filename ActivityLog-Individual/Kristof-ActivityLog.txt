@@ -1,4 +1,8 @@
 
+NOTE** This does not include the time from any meetings. I did not include time 
+estimates for some of the activities that involved doing a new type of task. 
+A lot of this involves learning and I cannot give an estimate if I don't know what I'm doing.
+
 //Started recording this day.
 Date:Jan 20
 Actual duration: 3h
@@ -18,6 +22,108 @@ Topic: Setting up team members with the IDE and framework, then minor work on re
 Date:Jan  23
 Actual duration: 1.5h
 Topic: Discussing presentation and tools.
+
+---
+
+Date: Jan 27
+Actual duration: 3h
+Topic: Creating the sign-up page structure
+Peer Reviewed? Later
+
+
+---
+
+Date: Jan 29
+Actual duration: 1h 
+Topic: reading up on how to add methods to alter the contents of a page
+Peer Reviewed?
+
+
+---
+
+Date: Jan 31
+Estimated duration: 1.5h
+Actual duration: 1.5h
+Topic: Pair programming, adding field checking
+Peer Reviewed?
+
+
+---
+
+Date: Jan 31
+Actual duration: 2h
+Topic: working on the sign up page
+Peer Reviewed?
+later on yes
+
+---
+
+Date:Feb 1
+Actual duration: 6h
+Topic: creating regexes and functions to check the input in order 
+Peer Reviewed?
+Yes. By Dylan.
+
+---
+
+Date:Feb 2
+Actual duration:4h
+Topic: Editing document, writing archetecture, discussing, and planning ID2
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
 
 ---
 
