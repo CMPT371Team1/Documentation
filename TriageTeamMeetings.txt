@@ -9,15 +9,14 @@ Summary:
 2.	A few quick to be done suggestions (multiple suggestion for province in filter) were made and implemented.
 3.	A few quick to be done suggestions (changing the place holders to labels on the register screen) were made and implemented.
 4.	Found bug: Null pointer exception in Settings page. Quickly fixed.
-5.
-6.	Missing: 
+5.	Missing: 
 a)	Sign-in needs to save user session on the phone.
 b)	Add province to sign-up screen.
 c)	Some kind of indication to suggest you can swipe a listing to edit/delete.
 d)	On favourites screen, change from delete to something else.	
 e)  For “My listings”, no image upload feature yet.
-7.	Added more fake listings.
-8.	Merged ID 1 to Development.
+6.	Added more fake listings.
+7.	Merged ID 1 to Development.
 
 Build: 
 1.	Smoke tests are not yet implemented because the Test lead is busy with work of more priority. 
