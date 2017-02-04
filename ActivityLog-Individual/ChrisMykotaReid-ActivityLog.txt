@@ -96,26 +96,26 @@ Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Feb 1/2017
+Estimated duration: 30 min
+Actual duration: 30 min
+Topic: general up keep of slack and checking through build logs
 Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Feb 2/2017
+Estimated duration: 2 1/2 hours 
+Actual duration: 2 1/2 hours
+Topic: writing build doc
 Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Feb 3/2017
+Estimated duration: 6 hours 
+Actual duration: 4 3/4 hours
+Topic: editing build doc, started getting deployment working on our servers
 Peer Reviewed?
 
 ---
