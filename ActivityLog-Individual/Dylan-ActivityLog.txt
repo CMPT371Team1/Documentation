@@ -81,8 +81,17 @@ Peer Reviewed: N
 
 ---
 
+Date: 2/3/2017
+Estimated duration: 5 hours
+Actual duration: 5 hours
+Topic: Reviewing the completed work, organizing ID2, fixing pieces of ID1.
+Peer Reviewed: N
+
+
+---
+
 Date:
 Estimated duration:
 Actual duration:
 Topic:
-Peer Reviewed?
+Peer Reviewed: 
