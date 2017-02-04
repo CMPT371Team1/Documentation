@@ -57,3 +57,9 @@ Estimated duration: 2 hours
 Actual duration: 2 hours
 Topic: Create Gannt Diagram
 Peer Reviewed? informally
+
+Date: Feb 3
+Estimated duration: 1 hours
+Actual duration: 1 hours
+Topic: Write Testing Document
+Peer Reviewed? informally
