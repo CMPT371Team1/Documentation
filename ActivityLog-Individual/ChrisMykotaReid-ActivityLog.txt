@@ -42,7 +42,7 @@ Peer Reviewed?
 ---
 
 Date: Jan 20/2017
-Estimated duration: 2 hours
+Estimated duration: 1 hours
 Actual duration: 12:30-2
 Topic: build configuration, specifically trying to ionic working with travis
 Peer Reviewed?
@@ -50,8 +50,8 @@ Peer Reviewed?
 ---
 
 Date: Jan 21/2017
-Estimated duration: 6 hours
-Actual duration: 11:50-5 w/ a 30 min of break, 12:00- 12:40
+Estimated duration: 4 hours
+Actual duration: 11:50-5 w/ a 30 min of break, 12:00- 12:40, 5 hours
 Topic: Continuing trying to get Travis and Ionic to cooperate AND THEY KINDA DID
 Peer Reviewed?
 
@@ -67,7 +67,7 @@ Peer Reviewed?
 
 Date: Jan 26/2017
 Estimated duration: 5 hours
-Actual duration: 6-12 with ~1 hour of breaks 
+Actual duration: 6-12 with ~1 hour of breaks , 5 hours
 Topic: getting a browser build working, fixing new issues that came up some how, started figuring out how to post build logs to git
 Peer Reviewed?
 
