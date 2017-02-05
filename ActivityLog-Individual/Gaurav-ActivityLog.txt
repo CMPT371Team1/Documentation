@@ -1,4 +1,113 @@
 
+Date: January 13th 2017
+Estimated duration: NA
+Actual duration: 2 hours
+Topic: Read about projects, got used to meeting system in the team, and read meeting minutes
+Peer Reviewed?
+
+---
+
+Date: January 15th to January 20th January
+Estimated duration: NA
+Actual duration: 3 hours
+Topic: Studied different aspects of Ionic, refamiliazrized myself with angular js and typeScript
+Peer Reviewed?
+
+---
+
+Date: January 22nd January to January 25th
+Estimated duration: 6 hours
+Actual duration: 8 hours
+Topic: Reviewed Use cases by Chris may, Worked on Flow chart diagram(even though not included in report, because of redudancy), also Worked on User Case Diagram( Which will now be part of id2).
+Peer Reviewed?
+
+
+---
+
+Date: January 27th 
+Estimated duration: 4 hours
+Actual duration: 4 hours
+Topic: Studied about django rest framework, sample set up, did not set up with ionic yet
+Peer Reviewed?
+
+---
+
+Date: January 28th
+Estimated duration: 2 hours
+Actual duration: 2 hours
+Topic: Brainstorming about Mini milestones
+Peer Reviewed yes
+
+---
+
+Date: January 29th - Feb 4th
+Estimated duration: 8 hours
+Actual duration: 12 hours
+Topic: Worked on Favourite list, My listing Segment and fixed couple of Edit listing, and added some parameter in browse.ts
+Peer Reviewed?
+
+---
+
+Date: 3rd Feb 
+Estimated duration: 1 hour
+Actual duration: 25mins
+Topic: Architecture Diagram of the system
+Peer Reviewed yes
+
+---
+
+Date: Feb 4th
+Estimated duration: 2hours
+Actual duration: 4 hours
+Topic: Pair programmed to add button on top of page, reviewed Tian's webapp2 work and then Pair progammed to join the Application with server.
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+
+---
+
+Date:
+Estimated duration:
+Actual duration:
+Topic:
+Peer Reviewed?
+
+---
+
 Date:
 Estimated duration:
 Actual duration:
@@ -20,7 +129,6 @@ Estimated duration:
 Actual duration:
 Topic:
 Peer Reviewed?
-
 
 ---
 
