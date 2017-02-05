@@ -68,11 +68,11 @@ Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: February 4th
+Estimated duration: 7 hours
+Actual duration: 7 hours
+Topic: Testing documentation written, gathered and edited, renewal of flow diagrams for ID#1 to show current coverage, manual testing done on Chrome, researching Protractor element locator options for Angular 2 (ng-model is Angular1 only), writing end-to-end tests for walking through UI.
+Peer Reviewed? No
 
 ---
 
