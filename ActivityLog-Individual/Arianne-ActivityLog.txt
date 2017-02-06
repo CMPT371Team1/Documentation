@@ -84,3 +84,13 @@ Topic: - Added and edited Chris MR's Build Doc
        - Added and edited Tian's System Requirements
        - Further editing and organization
 Peer Reviewed? No
+
+
+---
+
+Date: February 5th /17
+Estimated duration: 2 h 
+Actual duration: 2.5 h 
+Topic: - Added and edited test teams write-ups and diagrams
+       - Proof reading, editing, adding last minute changes
+Peer Reviewed? No
