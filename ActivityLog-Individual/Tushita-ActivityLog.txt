@@ -156,3 +156,20 @@ Estimated duration: 2
 Actual duration: 2
 Topic: Post-triage meeting writeup + documentation finalize
 Peer Reviewed?
+
+---
+
+Date: Feb 4
+Estimated duration: 3
+Actual duration: 2
+Topic: Conflict Resolution communication
+Peer Reviewed?
+
+
+---
+
+Date: Feb 6
+Estimated duration: .5
+Actual duration: .75
+Topic: Team conflict resolution meeting
+Peer Reviewed?
