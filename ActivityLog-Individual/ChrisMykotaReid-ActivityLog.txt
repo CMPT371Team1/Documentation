@@ -128,26 +128,26 @@ Peer Reviewed?
 
 ---
 
-Date: Feb 5 4/2017
-Estimated duration: 3-4 hours
-Actual duration: 6-8 hours
+Date: Feb 5/2017
+Estimated duration: 3-4 hrs
+Actual duration: 6-8 hrs
 Topic: getting deployment working involving setting up ssh keys on Travis and Github.  Getting deployment completely working for develop branch.  Actually compiling the deployment apk.
 Peer Reviewed?
 
 ---
 
-Date: Feb 5/2017  
-Estimated duration: 1-2 hours
-Actual duration: 2 hours
+Date: Feb 6/2017  
+Estimated duration: 1-2 hrs
+Actual duration: 2 hrs
 Topic: making the scripts tidy, trying to follow Google's style guide for shell scripts when it made sense
 Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Feb 7/17
+Estimated duration: 30 min
+Actual duration: 1 hr
+Topic: Checking slack, trello.  Debugging syntax errors in build.  Added artifact for inspection's path to the sched.
 Peer Reviewed?
 
 ---
