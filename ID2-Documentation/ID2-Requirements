@@ -1,0 +1,136 @@
+----------------------
+ID2 User Requirements:
+----------------------
+
+-	Generate Dummy Data Structures:
+    o	UserVotes:
+        -	Integer -> UserID
+        -	Integer -> ListingID
+        -	Boolean -> isLiked 
+    o	Filter:
+        -	Location -> Location
+        -	Float -> minPrice
+        -	Float -> maxPrice
+        -	Integer -> minBedroom 
+        -	Integer -> maxBedroom 
+        -	Integer -> minFeet
+        -	Integer -> maxFeet 
+        -	Boolean -> isFavourites 
+    o	BrowseList:
+        -	Integer ->Cursor
+        -	Integer[100] -> ListingIDs
+        -	Listings[5] -> curLoaded
+    o	ListingImages:
+        -	Integer -> ListingID
+        -	Image -> Image 
+        -	Integer -> OrderDisplayed 
+
+-	Generate Mock Classes:
+    o	 ListingProvider:
+        -	addListing(ListingToJSON: String) 
+        -	editListing(ListingToJSON: String)
+        -	removeListing(ListingID: Integer)
+        -	dislike(ListingID: Integer)
+        -	addToFavourites(ListingID: Integer)
+        -	removeFromFavourites(ListingID: Integer)
+        -	search(Filter: Filter) -> Filter can be Null  
+    o	LoginProvider (to be determined)
+
+-   General User Requirements:
+    -	Log on 
+    -	Sign up
+    -	Edit settings and User Info
+    -	View all property Listings
+    -	Listing swipe feature (cursor) 
+
+-   Buyer Specific Requirements:
+    -	Filter Search Based on:
+        o	City/Town
+        o	Address
+        o	Category (house, condo, building, etc.)
+        o	Square Feet
+        o	Price range
+        o	Number of bedrooms
+        o	Number of bathrooms
+    -	View all Listing Info (including pictures, descriptions, and seller contact info)
+    -	Save Listing to Favourites
+    -	Browse Favourites 
+    -	Remove Listing from Favourites 
+    -	Receive notifications regarding Favourites 
+        o	Price changes
+        o	Listing removed/edited 
+
+-   Seller Specific Requirements:
+    -	View personal Listings
+    -	Edit personal Listings (text fields, description, and images)
+    -	Add new Listings (contact info can be automatically added via sign-up info)
+        o	Upload images
+        o	Input:
+            -	City/Town
+            -	Address
+            -	Category (house, condo, building, etc.)
+            -	Square Feet
+            -	Price
+            -	Number of bedrooms
+            -	Number of bathrooms
+    -   Remove Listings
+
+
+
+- Back-end System Requirements
+
+    System Design:
+        The back-end system implementation is separated into two main modules – User accounts and Listings information. The account module handles user Sign-in, Sign-out, Sign-up, email verification, forgotten passwords, and resetting passwords. The Listings module defines a set of data related to a listed property, such as its location, price, description, images etc. To start the back-end, the http server is initialized, which calls all system modules before serving user requests. Thus, it has complete control over all parts of the system, and can decide to close any aspect should an issue arise.
+
+    System Requirements:
+        Fundamental aspects of the back-end behaviour can be defined by the following set of requirements:
+
+    Functional Requirements:
+    1.	The back-end must gather data sent from devices and store it in the database for future reference.
+    2.	User requests must be handled appropriately, and relevant information stored in the database must be sent to the device interface for display.
+    3.	The system should be capable of recovering from failures and crashes whilst maintaining the integrity of any stored data.
+
+    Non-functional Requirements: 
+    1.	The back-end system should be responsive to user requests, so that delays in displaying data are minimized.
+    2.	Data integrity and error correction mechanisms should be implemented so that no erroneous data is stored in the database.
+    3.	The system should send informative error messages to the client about the source of error.
+    4.	The system should provide an appropriate debugging environment, in which new code can be easily integrated, tested, and checked for errors. 
+
+    Software: 
+    The back-end system is implemented in Python and uses several external sources for specific implementations:
+    1.	Google App Engine
+    2.	NoSQL 
+    3.	Google Datastore NDB Client Library
+    4.	Webapp2: a lightweight Python web framework
+
+
+-----------------------------------
+Future Requirements (Nice to Haves)
+-----------------------------------
+
+-	Book a viewing feature
+
+-	Sign in using Facebook feature
+
+-	Set price watch on a given Listing
+
+-	Users can sign up to receive “hot list” notifications
+    o	Feature Listings (paid for by Sellers)
+    o	Newly added Listings
+    o	Price changes on Favourites
+    o	Based on previous search history
+    
+-	Push notifications if something changes regarding a Listing saved in Favourites (change in database triggers notification) 
+
+-	Sellers receive notifications regarding personal Listings:
+    o	When a Listing is saved to Favourites
+    o	When someone requests a viewing
+    o	When someone sets a price watch
+    
+-	Integration with Google Maps
+
+-	Super admin User:
+    o	Log in as Super Admin 
+    o	Add new Listing under any user
+    o	Edit any Listing
+    o	Remove any Listing
