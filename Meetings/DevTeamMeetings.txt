@@ -11,7 +11,7 @@ Summary:
 Date:Jan 22nd
 Start Time:2:00 pm
 End Time: people came and went as was convenient though Dylan and Kristof were there for about 3 hours
-People present: Dylan, Kristof, Arianne, Chris J, Tien, Justin, Chris MR
+People present: Dylan, Kristof, Arianne, Chris J, Tian, Justin, Chris MR
 Purpose: To set up the IDE and Ionic on everyones machines.
 Summary: Arianne, Dylan and Kristof also discussed design for ID1 and ID2 at the end.
 
@@ -27,6 +27,14 @@ Summary:
 Date:Jan 26th
 Start Time: 6:00pm
 End Time: 8:00
-People Present: Arianne, Dylan, Kristof, Gaurav, Tien, Justin, Tushita, Jeremy.
+People Present: Arianne, Dylan, Kristof, Gaurav, Tian, Justin, Tushita, Jeremy.
 Purpose: To finish duscussing the design of the models and database.
 Summary: Solidified data structures. Got everyone up to date with the overall structure of the models.
+
+#5
+Date: Feb 8th
+Start Time: 3:30
+End Time: 4:30
+People Present: Dylan, Tian, Kristof, Justin, (maybe)Tushita
+Purpose: To go through the requirments and trello board for this ID, explain and assign tasks.
+Summary:
