@@ -1,0 +1,46 @@
+#1
+Date: Monday, January 16
+Time: 12:30 a.m.
+Location: Geology Tim Hortons
+People present: Client - Conrad N., PL - Tushita Patel, DevL - Kristof Mercier
+Purpose: First Meeting - requiremens overview
+Summary: Conrad, the CEO talked about his vision for the app. It should be very similar to the existing Zillow app in store. He is also very open to new suggestions and is willing for us to try various ideas. It was also decided that the Project Lead and Dev Lead would have weekly meetings with Conrad every Thursday at 11:30 a.m. in the Geol Tim Hortons.
+
+On January 17, the client, Conrad, emailed the team with specific features that he wished to have in the app. The email also included some information about the platforms that are currently being used. The client was also presented with a sketch of user interface, which he approved. Furthermore, information such as current server provider (Amazon S3), backend language (Ruby), and front-end platform (html, css) is currently being used for the app.
+
+On January 18, the CTO was contacted for further clarifications that Conrad could not answer. There currently isn't a coding style which is being followed, but the CTO promised to provide with a sample code, so we can mimic it for our project. The previous app was built using Ionic version 1, but the CTO is aiming to change it to version 2, which is what he requires us to work with. The CTO also informed us that their app uses an API to extract, submit data to the server. 
+
+#2
+Date: Thursday, January 19
+Time: 11:30 a.m.
+Location: Geology Tim Hortons
+People present: Client - Conrad N., PL - Tushita Patel, DevL - Kristof Mercier, Dev - Dylan
+Purpose: Server side querries and other requirements clarifications
+Summary: It was decided that the app should be a stand-alone app instead of a feature in an existing app. Conrad also confirmed that he will buy a server domain by that afternoon, and that we should go ahead with the current User Interface design.
+
+A reminder email was sent to Conrad on Friday afternoon - Jan 20, because we hadn't heard anything from him about the server domain. On Saturday, another reminder was sent via text message, to which Conrad said he would buy a domain by Saturday night. On Sunday, Tushita, the project lead, got an email with an invitation to be an admin for the newly created domain - KasperHomeApp.com.
+As per Jan 22, we are still waiting for the CTO to get back to us regarding further clarifications. In the evening of Jan 22, the CTO replied to the email. He said that it is not necessary to use Ruby, now that it is a standalone app, and they don't currently use any CI tool, so we are free to choose one. 
+
+#3
+Date: Thursday, January 26
+Time: 11:30 a.m.
+Location: Geology Tim Hortons
+People present: Client - Conrad N., PL - Tushita Patel, DevL - Kristof Mercier
+Purpose: Clarify questions about features, address domain receival issues
+Summary: Upon discussion about the sign-up feature of the app, the Client suggested to allow users to log in using their facebook accounts. 
+Furthermore, each listing much have at least one picture. No listing would be allowed to exist without pictures of the property. 
+It is also a good idea to have the users - (users who are putting up their property on sale) to be able to save their listing before it is released, so they can come back to it to be able to further edit it before it is released.
+The client does not want the users to put up their pictures/avatar to associate with their account.
+It was also decided that when a new user signs up, they should not have a separate username. In fact, their email should serve as the username for their account. Alternatively, they could use facebook to log in for next times.
+
+On Monday, January 30th, Conrad emailed the project lead and the dev lead and requested to CANCEL the upcoming meeting on Thursday. The purpose of the meeting was to show him the progress and talk about the goals for the next ID. Because of his absence, this shall be done via an exchange of emails between the Project Lead and the Client on the weekend of Feb 4th.
+
+An email was sent to the CTO Raul (and cc’ed to Conrad) with questions about the database setup on Tuesday, January 31st. After the team meeting, a couple of developers wanted to get started on the backend portion of the development (which is a goal for ID2) and wanted to clarify with the CTO if they had to produce procedures that would be compatible with Amazon S3. The CTO replied the next day informing that there is no strictness towards using services from Amazon S3. 
+#4
+Date:
+Time:
+Location:
+People present:
+Purpose:
+Summary:
+
