@@ -35,6 +35,6 @@ Summary: Solidified data structures. Got everyone up to date with the overall st
 Date: Feb 8th
 Start Time: 3:30
 End Time: 4:30
-People Present: Dylan, Tian, Kristof, Justin, (maybe)Tushita
+People Present: Dylan, Tian, Kristof, Justin,Tushita
 Purpose: To go through the requirments and trello board for this ID, explain and assign tasks.
-Summary:
+Summary: Established that server request documentation needs to be completed before developement can continue, and assigned tasks which are independent of this requirement. We also established stand up requirements on a new slack channel.
