@@ -87,8 +87,8 @@ Peer Reviewed? Will be soon (On February 13th)
 Date: February 9th
 Estimated duration: 1 hour
 Actual duration: 1.5 hours
-Topic: 
-Peer Reviewed?
+Topic: Test team meeting set up and detailed explanation of protractor tool to testers
+Peer Reviewed? No
 
 ---
 
