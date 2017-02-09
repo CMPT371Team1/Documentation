@@ -107,6 +107,7 @@ ID2 User Requirements:
 -----------------------------------
 Future Requirements (Nice to Haves)
 -----------------------------------
+-   When signing up, check if e-mail is already in the database, and display a message if it is.
 
 -	Book a viewing feature
 
