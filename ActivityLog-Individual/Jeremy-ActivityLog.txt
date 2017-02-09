@@ -76,18 +76,18 @@ Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: February 8th
+Estimated duration: 2 hours
+Actual duration: 2 hours
+Topic: Test plan creation to be peer reviewed.
+Peer Reviewed? Will be soon (On February 13th)
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
+Date: February 9th
+Estimated duration: 1 hour
+Actual duration: 1.5 hours
+Topic: 
 Peer Reviewed?
 
 ---
