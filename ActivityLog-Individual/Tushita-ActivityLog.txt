@@ -186,10 +186,10 @@ Peer Reviewed?
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
+Date: Feb 9
+Estimated duration: 1.5
+Actual duration: 1.5
+Topic: Team communication + meeting documentation + managing upcoming code reviews
 Peer Reviewed?
 
 
