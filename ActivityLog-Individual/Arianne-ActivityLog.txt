@@ -94,3 +94,13 @@ Actual duration: 2.5 h
 Topic: - Added and edited test teams write-ups and diagrams
        - Proof reading, editing, adding last minute changes
 Peer Reviewed? No
+
+
+---
+
+Date: February 9th /17
+Estimated duration: 0 h 
+Actual duration: 1.5 h 
+Topic: - Restructured Documentation Repository
+       - Updated hyperlinks in documents 
+Peer Reviewed? No
