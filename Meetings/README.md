@@ -3,7 +3,7 @@
 
 Project Lead: Tushita Patel
 
-Dev Lead: Dylan Prefontaine
+Dev Lead: Overall: Kristof Mercier; Technical: Dylan Prefontaine
 
 Developers: Arianne Butler, Gaurav Arora, Melody Zhao, Kristof Mercier, Justin Ma
 
