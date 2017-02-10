@@ -65,18 +65,18 @@ Peer Reviewed?
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Feb 5th to Feb 9th 
+Estimated duration: 1 hour
+Actual duration: 3.5 hours
+Topic: Installing and documenting webapp2
+Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
+Date: Feb 9th 
+Estimated duration: 1  hr
+Actual duration: 3 hrs
+Topic: Peer programming, Worked on Server build 
 Peer Reviewed?
 
 
