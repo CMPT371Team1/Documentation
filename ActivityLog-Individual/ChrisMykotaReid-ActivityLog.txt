@@ -1,3 +1,4 @@
+Meetings are not included in this doc.
 
 I can't remember early than this about specific days but I think I researched for maybe another 1 or 2 hours (maybe more I honestly couldn't say) about which CI tools were best for us
 
@@ -154,18 +155,18 @@ Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Feb 9/17
+Estimated duration: 2 hr
+Actual duration: 3
+Topic: Pair programming setting up server building on Travis.  Also looked into closing ionic after browser build and
 Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Feb 10/17
+Estimated duration: 1 hr
+Actual duration: 1
+Topic: Reviewing inspection artifcat.  Reading and participating in Slack.
 Peer Reviewed?
 
 ---
