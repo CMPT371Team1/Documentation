@@ -82,20 +82,20 @@ Peer Reviewed?
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
+Date: Feb 11th 
+Estimated duration: 1hr
+Actual duration:2.5 hours
+Topic: Peer programming with Kristof for WEB API
 Peer Reviewed?
 
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
-Peer Reviewed?
+Date: Feb 11th - Feb 12th
+Estimated duration: 3 hours
+Actual duration: 5 hours
+Topic:Completing web api document, modularizing the api, figuring out how to return the error.
+Peer Reviewed? 
 
 
 ---
