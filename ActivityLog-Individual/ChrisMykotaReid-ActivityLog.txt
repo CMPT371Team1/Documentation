@@ -171,51 +171,18 @@ Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Feb 12/17
+Estimated duration: 1 hr   
+Actual duration: 1 1/2 hr
+Topic: trying to build server and push it somewhere.  Learned that's not how gae works
 Peer Reviewed?
 
 ---
 
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
-Peer Reviewed?
-
----
----
-
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
-Peer Reviewed?
-
----
-
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
-Peer Reviewed?
-
----
-
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
-Peer Reviewed?
-
----
-
-Date: 
-Estimated duration: 
-Actual duration: 
-Topic: 
+Date: Feb 13/17
+Estimated duration: 30 min 
+Actual duration: 30 min
+Topic: prepping for code review
 Peer Reviewed?
 
 ---
@@ -252,3 +219,69 @@ Topic:
 Peer Reviewed?
 
 ---
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
+Date: 
+Estimated duration: 
+Actual duration: 
+Topic: 
+Peer Reviewed?
+
+---
+
