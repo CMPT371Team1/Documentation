@@ -100,18 +100,18 @@ Peer Reviewed?
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
+Date: 12th - 14th
+Estimated duration: 5 hours
+Actual duration: 8 hours
+Topic: Edited web api doc, figured out Unit testing, complete sign up page, unit tested sign up page
 Peer Reviewed?
 
 ---
 
-Date:
-Estimated duration:
-Actual duration:
-Topic:
+Date: 14th 
+Estimated duration: 1.5hours
+Actual duration:1.5hours
+Topic: Pair programming with kristof, implemented sign in, started edit user
 Peer Reviewed?
 
 ---
