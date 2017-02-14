@@ -97,7 +97,7 @@ Peer Reviewed?
 
 Date: Jan 27
 Estimated duration: 1
-Actual duration:2
+Actual duration: 2
 Topic:Prepeare for formal inspection + changes post inspections
 Peer Reviewed? Yes
 
@@ -192,6 +192,38 @@ Actual duration: 1.5
 Topic: Team communication + meeting documentation + managing upcoming code reviews
 Peer Reviewed?
 
+
+---
+
+Date: Feb 12
+Estimated duration: 0.5
+Actual duration: 1
+Topic: Team communication
+Peer Reviewed? No
+
+---
+
+Date: Feb 13
+Estimated duration: 2
+Actual duration: 2
+Topic: Team communication + prep for Code Review + prep for meeting with Dr. Osgood.
+Peer Reviewed? No
+
+---
+
+Date: Feb 14
+Estimated duration: 0.5 
+Actual duration: 
+Topic: Team communication + prep for meeting with Dr. Osgood
+Peer Reviewed? No
+
+---
+
+Date:
+Estimated duration: 
+Actual duration: 
+Topic:
+Peer Reviewed?
 
 ---
 
