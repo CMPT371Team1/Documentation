@@ -213,22 +213,22 @@ Peer Reviewed? No
 
 Date: Feb 14
 Estimated duration: 0.5 
-Actual duration: 
+Actual duration: 0.5
 Topic: Team communication + prep for meeting with Dr. Osgood
 Peer Reviewed? No
 
 ---
 
-Date:
-Estimated duration: 
-Actual duration: 
-Topic:
+Date: Feb 15
+Estimated duration: 2
+Actual duration: 1
+Topic: Writing feedback to give to Doc manager
 Peer Reviewed?
 
 ---
 
-Date:
-Estimated duration: 
+Date: Feb 15
+Estimated duration: 2
 Actual duration: 
-Topic:
+Topic: Refactor activity log, as per suggestion by Allen and Dr. Osgood.
 Peer Reviewed?
