@@ -17,3 +17,15 @@ On February 10th at 3:30, Dylan held an inspection that covered the overall desi
 
 Peer Review #4 - Testing plan
 On Feb 13th, 3:30 PM, Jeremy held an inspection covering the testing plan for the current and future ID's. A template for Use Cases was shown to display the detailed test specifications between the transitions of the UI flow diagrams. End-to-end test progress was shown and demonstrated, noting that changes would be made to accomodate newly developed features in the coming ID. Issues with the unit test runner tool Karma were informed to the development team leaders, and questions to ask Prof. Osgood about unit testing were formulated. Plans to update the test matrix, defect report, flow diagrams, and use cases were given. The dev leads let the testers know about the extra time required for development, and that the testers would be receiving the code a day later than previously scheduled. Due to conflicts in schedules and other classes occuring during this review, another inspection covering the same topic will be held on Sat. Feb 18th for those who missed the first one.
+
+Peer Review #5 - Build files
+Date, time and location: Feb 14, 4:30 p.m. S371
+A peer review was held on Feb 14 whose main purpose was to disseminate information to the group about the build.  It was lead by Chris 
+Mykota-Reid and lasted roughly 1 hour.  The artifact was the build as of the end of ID1 and was made available 1 week prior to the 
+inspection.  During the peer review the .travis.yml was went over as well as the scripts used in the build first starting with the overall
+yml and what the different headers ment and then going into the individual scripts.  Each command in the script was explained (as best as 
+Chris could) and questions were encouraged at the end of each script.  The main focus was communicating that these are just bash
+scripts so that if Chris were to fall ill people would at least have a place to start.  Most people didn't know anything about the build
+so if Chris was to fall sick or ill the consequences could be severe.  This peer review was ment to mitigate that.  A few suggestions were
+made towards formatting of the script by Gaurav and Dylan added in another command for ionic package installation but besides that it was 
+all lecture from Chris and questions from the group.
