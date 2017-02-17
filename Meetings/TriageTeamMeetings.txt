@@ -3,7 +3,7 @@ Date: Feb 4, 2017
 Start Time: 2:00 PM
 End Time: 3:38 PM
 Location: spinks open lab
-People present: ChrisMR, Dylan, tushita Patel
+People present: ChrisMR, Dylan, Tushita Patel
 Summary: 
 1.	The Dev lead showed us the flow of the GUI
 2.	A few quick to be done suggestions (multiple suggestion for province in filter) were made and implemented.
@@ -27,10 +27,49 @@ Build:
 
 
 #2
-Date:
-Start Time:
-End Time:
-Location:
-People present:
-Purpose:
+Date: Feb 17, 2017
+Start Time: 1:30 p.m.
+End Time: 2:30 p.m.
+Location: Spinks 320
+People present: Tushita Patel (PL), Kristof Mercier and Dylan Prefontaine (Dev Leads), Jeremy Liau (Test Lead) and Chris Mykota Reid (Build Manager)
 Summary:
+The summary for each of front-end, back-end, testing, and build is provided below.
+1. Front-end:
+Unable to meet the requirements because of the dependence on Backend doc, which could not be finished on time. This was a risk that we had identified. In lieu of this task, the front-end developers worked on the following tasks:
+-	Added province to register screen.
+-	Research on saving information to the device. As a part of the research, built a spike prototype
+-	Other minor changes: 
+o	change tabs, 
+o	set additional goals for ID3 – (backend-frontend) and (backend-backend).
+-	Integrated sign-up, sign-in and add-listing with the backend.
+
+2. Back-end: 
+The following tasks were finished:
+-	Data structures, 
+-	Unit testing setup,
+-	Unit tested, 
+-	WebApp interface, 
+-	Implemented sign-in, sign-up, add-listing 
+-	3 API calls implemented and tested and documented, and
+-	8 more documented but not implemented
+-	Finished API, Style and Unit Test documentation
+The following tasks were not finished for ID 2:
+-	Implement the 8 API calls mentioned above
+-	Addition of more API calls
+
+3. Testing:
+The following tests were done for ID 2:
+-	Manual testing, 
+-	Test matrix update, 
+-	Update path coverage diagrams, 
+-	Testing plan documentation, 
+-	End-to-end testing, 
+-	Critical use cases, 
+-	Testing results and defect report
+
+Unit testing could not be carried out because Karma (unit test runner) is not yet set up. However, the developers built a separate way of unit testing to get around having to deal with Karma. 
+
+4. Build
+The server build was fully implemented and is currently running.
+The smoke test is still in the early processes of being implemented, although we expect it to be finished by the end of this weekend (Feb 19), or definitely by mid-ID3 (Feb 24).
+
