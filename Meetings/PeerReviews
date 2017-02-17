@@ -26,6 +26,7 @@ inspection.  During the peer review the .travis.yml was went over as well as the
 yml and what the different headers ment and then going into the individual scripts.  Each command in the script was explained (as best as 
 Chris could) and questions were encouraged at the end of each script.  The main focus was communicating that these are just bash
 scripts so that if Chris were to fall ill people would at least have a place to start.  Most people didn't know anything about the build
-so if Chris was to fall sick or ill the consequences could be severe.  This peer review was ment to mitigate that.  A few suggestions were
-made towards formatting of the script by Gaurav and Dylan added in another command for ionic package installation but besides that it was 
-all lecture from Chris and questions from the group.
+so if Chris was to fall sick or ill the consequences could be severe.  This peer review was ment to mitigate that.  Gaurav 
+suggested reformatting some of the script and having the build revert back to the most recent successful build on failure.
+Dylan raised some concerns about ionic serve not being useful and a lack of understanding of ionic was brought to my attention
+once I had to get to explaining that part.
