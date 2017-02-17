@@ -25,6 +25,7 @@ Build:
 4.	Have build logs going to slack in build logs channel.
 5.	Travis stores build logs on Amazon S3. 
 
+-----------------------------------------------------------------------------------------------------------
 
 #2
 Date: Feb 17, 2017
@@ -73,3 +74,4 @@ Unit testing could not be carried out because Karma (unit test runner) is not ye
 The server build was fully implemented and is currently running.
 The smoke test is still in the early processes of being implemented, although we expect it to be finished by the end of this weekend (Feb 19), or definitely by mid-ID3 (Feb 24).
 
+-----------------------------------------------------------------------------------------------------------
