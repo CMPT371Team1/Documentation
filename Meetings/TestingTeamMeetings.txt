@@ -17,6 +17,15 @@ Purpose: To discuss the use of Protractor: how to write javascript files, how th
 Summary: Ryan and ChrisJ will practice the tools shown in todays meeting, before writing actual end-to-end tests for ID 2. Jeremy will continue to try to sort out the issues with protractor's sendKeys() function and locating tabs in our application, as well as work on Karma and unit tests. ChrisMR will get test tools running on TravisCI for smoke tests.
 
 #3
+Date: February 16th
+Start Time: 2:30 PM
+End Time: 5:30 PM
+Location: Spinks 371
+People present: ChrisJ, Ryan, Jeremy
+Purpose: To manually test, write E2E tests, update test matrix, update defect report, update UI flow diagrams, write use cases at a low level and relate them to the flow diagrams for ID2.
+Summary: All test team members manually tested ID2. Ryan and ChrisJ worked on E2E tests. Ryan wrote a test specifically for the "Register" page, while ChrisJ wrote one for the "My Listings" page. Jeremy wrote a short "test", which simply filled out the user settings form. Low level use cases were described for the tests created, and will be related to the flow diagrams. A new format for the test matrix was discussed, and will be created. Jeremy updated the UI flow diagrams to better reflect the current state of the project, and the newly created requirements.
+
+#4
 Date:
 Start Time:
 End Time:
