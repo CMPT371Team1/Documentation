@@ -38,3 +38,25 @@ End Time: 4:30
 People Present: Dylan, Tian, Kristof, Justin,Tushita
 Purpose: To go through the requirments and trello board for this ID, explain and assign tasks.
 Summary: Established that server request documentation needs to be completed before developement can continue, and assigned tasks which are independent of this requirement. We also established stand up requirements on a new slack channel.
+
+
+#6
+Date: Feb 24th
+Start Time: 3:30
+End Time: 4:30
+People Present: Dylan, Tian, Kristof, Justin, Gaurav
+Purpose: To update the backend api calls to the new requirements.
+
+Summary: 
+change 1: Remove cursor and lastListing from the getlistings api call.
+change 2: Getlistings api call now takes either a list of ID's xor a filter datastructure. It also optionally takes and "included                 fields" as well as "limit" which is the number of fields that are returned. By default only returns id's. Also have a "featureImage" option in the include fields.
+change 3: some sort of listing datasrtructure or some sort of array of blobs to contain image.
+change 4: EditListing call must update modified date, return modified date in response (JSON)
+change 5: Login with token or otherwise needs to update the "lastSeen".
+change 6: Must update the server if own listing is modified on the device, must update the device if favourites has been changed on the server. Check for validity must be done on front and back end. If the backend gets an invalid listing, force update the listing on the device. This shouldn't happen in normal app usage so it's fine.
+change 7:(maybe) user specefic rate limit so that can't brute force the api.
+change 8: Have verified in user table, do a verify email thing.
+change 9: change the monstrosity of a name "FavouriteListingsUser" to "GetFavourites"
+change 10: "Sign In with token" should return everything that "SignIn" returns.
+
+
