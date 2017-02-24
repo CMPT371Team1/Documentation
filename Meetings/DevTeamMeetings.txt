@@ -62,5 +62,5 @@ change 11: "requestContactInformation" changed to "contactSeller". We need a new
            Table: senderID, lisingID, message, phone, email, received, createDate.
            Need a push notificatin to seller that will tell them they have new messages. Then their app will need to call an api call              that updates their app with the new message.
 change 12: new post request for "GetMessages" : takes in userId, returns 
-change 13: deleteMessage: takes userId, messageID(this is just senderID apend listingID), token | returns 
+change 13: editMessage: takes userId, messageID(this is just senderID apend listingID), token | either deletes the message or sets its status to read.
 
