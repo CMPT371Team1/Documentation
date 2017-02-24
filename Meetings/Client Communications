@@ -48,3 +48,16 @@ Purpose: Demo the app + clarifications
 Summary: The progress from ID1 was demonstrated to Conrad and he made some suggestions about the interface. He also provided us with some existing apps and asked us to follow those. Conrad suggested that the app should be more simple and it should look more like Tinder. We also agreed that the app should be in a bi-mode - for buyers and sellers. He is still interested for Facebook login and an option for allowing listers to pay more for advertising their listing.
 
 The next weekly meeting with Conrad was scheduled for Feb 16 at 11:30 a.m.. At 11:31, Conrad messaged Tushita and cancelled the meeting. To cover for this, an email will be sent to Conrad with the updates and questions.
+
+
+Email Communication: On February 22, an email was sent to Conrad with a couple of questions as well as a link to the updated UI decisions made during the previous client meeting and Dylan’s UI inspection. Conrad said he would reply to the email with answers by the end of the day. Because these questions were not answered via email, the meeting on the next day covered most of these questions. 
+
+#5:
+Date: Feb 23, 2017
+Time: 11:30 a.m.
+Location: Geology Tim Hortons
+People Present: Tushita (Project Lead), Dylan Prefontaine (Dev Lead Technical), Kristof Mercier (Dev Lead)
+Purpose: Answer questions, report changes to UI
+
+Summary: 
+In the meeting, a few questions about the UI and functionality of the app were discussed. Also, Conrad provided us with the graphical logo of the app, and he agreed to allow us to use University servers instead of his own, as it will take some time to set up his private server. The team pointed out to Conrad that the Buy/Sell mode feature (UI decision from last meeting) would not be an intuitive way of separating potential buyers and sellers who are using the app. This UI decision was again changed to just having a “Sell a Home” button separately at the bottom right corner of the app pages, in a different colour to separate itself from the regular “Buy/View” perspective. Furthermore, Conrad asked to finish the major workings of the front-end code by March 8th in order to present the app to some potential investors. For this purpose, Conrad will be attending the ID3 presentation on Tuesday, March 7 at 4:00pm in Thorv 205A to learn how far the team has gotten in development. The meeting for next week (i.e. Mar 2nd) was cancelled by Conrad.
