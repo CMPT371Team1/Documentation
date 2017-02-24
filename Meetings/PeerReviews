@@ -30,3 +30,8 @@ so if Chris was to fall sick or ill the consequences could be severe.  This peer
 suggested reformatting some of the script and having the build revert back to the most recent successful build on failure.
 Dylan raised some concerns about ionic serve not being useful and a lack of understanding of ionic was brought to my attention
 once I had to get to explaining that part.
+
+Inspection 6 – Back-end API
+Date, time and location: February 21st, 2:00pm S371
+
+Our first code review session was held on February 21, 2017 at 2:00 p.m. in Spinks S371. The author of this session was Gaurav Arora from the back-end development team. The artifact involved the Web API Document, an implementation of the Create_User API along with its unit test. All attendees were asked to come prepared with potential flaws prior to attending the review session, which were first discussed by three randomly chosen attendees - Dylan, Ryan and Justin. Afterwards, Justin and Ryan were asked to be the scribe for the session and ChrisJ volunteered to be the moderator for the session. Then, each of the documents were reviewed line by line by the committee and a total of 51 faults/errors/areas of improvement were discovered. After the session, the author, Gaurav was asked to modify the document and the code by February 23rd, along with Tushita’s help.
