@@ -43,7 +43,7 @@ Summary: Established that server request documentation needs to be completed bef
 #6
 Date: Feb 24th
 Start Time: 3:30
-End Time: 4:30
+End Time: 5:00
 People Present: Dylan, Tian, Kristof, Justin, Gaurav
 Purpose: To update the backend api calls to the new requirements.
 
