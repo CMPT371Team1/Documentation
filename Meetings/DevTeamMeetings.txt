@@ -64,3 +64,12 @@ change 11: "requestContactInformation" changed to "contactSeller". We need a new
 change 12: new post request for "GetMessages" : takes in userId, returns 
 change 13: editMessage: takes userId, messageID(this is just senderID apend listingID), token | either deletes the message or sets its status to read.
 
+
+#7
+Date: March 1
+Start Time: 5:20
+End Time: idk
+People Present: Dylan, Tian, Kristof, Justin, Gaurav
+Purpose: To discuss new requirements changes and evaluate ID progress
+Summary: 
+
