@@ -68,8 +68,9 @@ change 13: editMessage: takes userId, messageID(this is just senderID apend list
 #7
 Date: March 1
 Start Time: 5:20
-End Time: idk
+End Time: 6:00
 People Present: Dylan, Tian, Kristof, Justin, Gaurav
 Purpose: To discuss new requirements changes and evaluate ID progress
-Summary: 
+Summary: Discussed and ensured the server was behaving properly, and discussed how to review all of the written code for this ID
+Change 1: The getListing API call now does not optionally take a list of listing ids. It still optionally takes a filter, and should generate it's own default filter to use if none is passed in.
 
