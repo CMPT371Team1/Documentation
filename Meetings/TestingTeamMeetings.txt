@@ -26,10 +26,10 @@ Purpose: To manually test, write E2E tests, update test matrix, update defect re
 Summary: All test team members manually tested ID2. Ryan and ChrisJ worked on E2E tests. Ryan wrote a test specifically for the "Register" page, while ChrisJ wrote one for the "My Listings" page. Jeremy wrote a short "test", which simply filled out the user settings form. Low level use cases were described for the tests created, and will be related to the flow diagrams. A new format for the test matrix was discussed, and will be created. Jeremy updated the UI flow diagrams to better reflect the current state of the project, and the newly created requirements.
 
 #4
-Date:
-Start Time:
-End Time:
-Location:
-People present:
-Purpose:
-Summary:
+Date: March 2nd
+Start Time: 2:30 PM
+End Time: 4:30 PM
+Location: Spinks 372
+People present: ChrisJ, Ryan, Jeremy, Dylan
+Purpose: Assign tasks to all testers, set up Android testing environments, bug fixes and explanations with Dylan, get debug console for Android testing.
+Summary: All test team members will be working on their respective tasks during the weekend, and will send their work and documentation to Jeremy. Jeremy will review everything, and send all finalized documentation to Arianne on Sunday afternoon. Meeting was made shorter than usual due to commitments in other classes and ChrisJ's illness. Dylan came to the meeting to explain Android testing, the debug console, and certain bugs/do bug fixing for some of the bugs we had found prior to the meeting.
