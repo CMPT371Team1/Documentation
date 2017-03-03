@@ -115,7 +115,7 @@ Person2: Chris May
 Artifact: ID2 end to end testing 
 Main Author: Ryan
 
-Session #9
+Session #10
 Date: February 17
 Start Time: 4:00
 End Time: 5:30
@@ -125,7 +125,7 @@ Person2: Jeremy
 Artifact: ID2 end to end testing 
 Main Author: Jeremy
 
-Session #9
+Session #11
 Date: February 17
 Start Time: 3:30
 End Time: 5:30
@@ -134,3 +134,14 @@ Person1: Chris M
 Person2: Gaurav Arora
 Artifact: smoke test in Build
 Main Author: Chris M
+
+
+Session #12
+Date: February 17
+Start Time: 4:00
+End Time: 5:30
+Location: Spinks
+Person1: Arianne
+Person2: Tushita
+Artifact: ID3 Documentation
+Main Author: Arianne
