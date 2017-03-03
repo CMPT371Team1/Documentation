@@ -22,4 +22,7 @@ All members Meetings are the meetings where all emmebrs: both dev and test team 
 
 Link to general timeline, code review signups and activity logs: https://docs.google.com/spreadsheets/d/1g3CfvlI1erdg2zaHZlVyh6uQ-rYQ6L5Cay0YIn2UETk/edit?usp=sharing
 
+---
 
+####Smoke Test Build Status:
+[![Build Status](https://travis-ci.org/CMPT371Team1/Project.svg?branch=id3)](https://travis-ci.org/CMPT371Team1/Project)
