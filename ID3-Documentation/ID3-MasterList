@@ -5,12 +5,30 @@ ID3 DOCUMENTATION MASTER LIST
 ---------------------
 Project Documentation
 ---------------------
+
 - Requirements
-    - Back End Requirements Changes and Reformatting for ID3
+    - Back End Requirements Changes - KRISTOF
+    - Front End Requirements Changes Diagram - KRISTOF
 
+- Design
+    - UML Diagrams - DONE 
+    - Unit Test Plan - DONE
+    
+- Time Estimates - DONE
 
+- Triage Meeting - TUSHITA 
 
 
 ---------------------
 Process Documentation
 ---------------------
+
+- Inspections - KRISTOF
+
+- Client Commincation - DONE
+
+- Bug Party - DONE 
+
+--------------
+Tushita's List 
+--------------
