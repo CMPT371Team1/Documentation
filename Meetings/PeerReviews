@@ -35,3 +35,9 @@ Inspection 6 – Back-end API
 Date, time and location: February 21st, 2:00pm S371
 
 Our first code review session was held on February 21, 2017 at 2:00 p.m. in Spinks S371. The author of this session was Gaurav Arora from the back-end development team. The artifact involved the Web API Document, an implementation of the Create_User API along with its unit test. All attendees were asked to come prepared with potential flaws prior to attending the review session, which were first discussed by three randomly chosen attendees - Dylan, Ryan and Justin. Afterwards, Justin and Ryan were asked to be the scribe for the session and ChrisJ volunteered to be the moderator for the session. Then, each of the documents were reviewed line by line by the committee and a total of 51 faults/errors/areas of improvement were discovered. After the session, the author, Gaurav was asked to modify the document and the code by February 23rd, along with Tushita’s help.
+
+
+Peer Reivew #8 – Back-end listing-related APIs
+Date, time and location: March 6th, 3:30pm S371
+
+The code review session was held on March 6, 2017 at 3:30pm in Spinks S371. The author of this session was Melody Zhao from the back-end development team. The artifact involved the implementation of creating a listing, like/dislike a listing and get filtered listings, as well as corresponding uint tests. All attendees were asked to come prepared with potential flaws prior to attending the review session. Afterwards, Kristof was asked to be the scribe for the session and ChrisMR volunteered to be the moderator for the session. Then, each of the documents were reviewed line by line by the committee and a total of 47 faults/errors/areas of improvement were discovered. After the session, the author, Melody was asked to modify the document and the code.
