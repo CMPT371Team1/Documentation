@@ -75,3 +75,56 @@ The server build was fully implemented and is currently running.
 The smoke test is still in the early processes of being implemented, although we expect it to be finished by the end of this weekend (Feb 19), or definitely by mid-ID3 (Feb 24).
 
 -----------------------------------------------------------------------------------------------------------
+#3
+Date: Saturday, March 4th /17
+Start Time: 1:35pm
+End Time: 
+Location: Spinks360
+
+Members Present: Tushita Patel (Project Lead), Kristof Mercier and Dylan Prefontaine (Dev leads), Jeremy Liau (Test Lead), Chris Mykota-Reid (Build Manager)
+
+
+Summary:
+
+1)	Front-end:
+The application was redesigned after requirements changes – changes are shown using images from our new UI in section 1.1 Front-end Requirements. Some changes, such as integration with Google Maps, Detail Page, and certain features of Browse, will be carried over to ID4. 
+
+
+2)	Back-end
+The following tasks were completed for ID3:
+-	Implemented eleven out of sixteen API calls, two of which have been tested. For the tested API calls we have achieved an average of 82.9% line coverage in our unit tests. 
+
+The following tasks were not completed for ID3:
+-	Delete Listings *NEW*
+-	Sign in / Sign up with Facebook
+-	Confirm email
+-	Logout *NEW*
+-	Contact seller *NEW*
+
+
+3)	Testing
+The following test related tasks were completed for ID3:
+-	Manual testing in Browser and Android
+-	Use cases
+-	Updated test matrix
+-	Updated path coverage diagrams
+-	End-to-end tests
+-	Testing Documentation
+-	Implemented Smoke Tests
+-	Updated defect report – with android, browser test, bugs found in bug party
+       
+The following test related tasks were completed for ID3:
+o	Some bugs have not been fixed – Test and Dev Teams will work together to fix all remaining bugs as quickly as possible.
+
+
+4)	Build
+The following build related tasks were completed for ID3:
+-	Smoke tests are passing on the front-end in the Firefox web browser
+-	Smoke tests are passing on the back-end 
+-	Multi stage development is working
+
+The following build related tasks were not completed for ID3:
+-	GitHub releases
+-	Smoke tests for iOS and Android 
+-	Browser smoke tests for Chrome 
+
