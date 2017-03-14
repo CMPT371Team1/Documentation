@@ -41,3 +41,11 @@ Peer Reivew #8 – Back-end listing-related APIs
 Date, time and location: March 6th, 3:30pm S371
 
 The code review session was held on March 6, 2017 at 3:30pm in Spinks S371. The author of this session was Melody Zhao from the back-end development team. The artifact involved the implementation of creating a listing, like/dislike a listing and get filtered listings, as well as corresponding uint tests. All attendees were asked to come prepared with potential flaws prior to attending the review session. Afterwards, Kristof was asked to be the scribe for the session and ChrisMR volunteered to be the moderator for the session. Then, each of the documents were reviewed line by line by the committee and a total of 47 faults/errors/areas of improvement were discovered. After the session, the author, Melody was asked to modify the document and the code.
+
+Peer Review #9 - Protractor e2e Test
+Date, Time and Location: March 13th, 3:30pm Spinks
+
+The code review session was held on March 13th, 2017 at 3:30 in Spinks. The author of this session was Christopher May from the testing team. The artifact involved was the implementation of the filter screen e2e testing and the related Use Case. All attendees were asked to come with potential flaws prior to attending the review session. Gurauv who was not able to attend sent his in the peer review documentation Google Doc. Kristof and Arianne were the Moderator and Scribe respectively. The Issues were brought up and discussed. Afterwards each of the documents were revied line by line by the committee and a total of 12 faults/errors/areas of improvement were discouvered and discussed. After the session, the author was asked to modify the reviewed material.                                                                                                                                                                                                                     
+
+
+
