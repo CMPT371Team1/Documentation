@@ -63,3 +63,36 @@ Summary:
 In the meeting, a few questions about the UI and functionality of the app were discussed. Also, Conrad provided us with the graphical logo of the app, and he agreed to allow us to use University servers instead of his own, as it will take some time to set up his private server. The team pointed out to Conrad that the Buy/Sell mode feature (UI decision from last meeting) would not be an intuitive way of separating potential buyers and sellers who are using the app. This UI decision was again changed to just having a “Sell a Home” button separately at the bottom right corner of the app pages, in a different colour to separate itself from the regular “Buy/View” perspective. Furthermore, Conrad asked to finish the major workings of the front-end code by March 8th in order to present the app to some potential investors. For this purpose, Conrad will be attending the ID3 presentation on Tuesday, March 7 at 4:00pm in Thorv 205A to learn how far the team has gotten in development. The meeting for next week (i.e. Mar 2nd) was cancelled by Conrad.
 
 Because the second meeting on Thursday, March 2nd was cancelled by Conrad, a couple of questions that needed to be asked to Conrad during the meeting were instead asked via a text message. The text message was sent to Conrad to confirm that still does not want any favourited listings to be cached on the user's device, to which Conrad agreed. The client does not want the performance of the app to decrease as the users add more listings to their favourites. Making the API calls faster to increase the overall performance should be the priority.
+
+------
+
+During the early days of ID4, we requested Conrad to come watch our presentation for ID3. 
+It would be a nice way to see the demonstration of the app as well as learn about background developments. 
+Conrad also requested to get an APK version of the app so he could demo it to potential investors that 
+he intended to meet the day after the presentation.
+
+Conrad came to see the presentation at 4pm March 7th. 
+After the presentation, Conrad said that he was very happy with what we have developed so far. 
+We also shared with him the APK version of the app. 
+It was decided that we would not have another client meeting coming Thursday of the week because 
+because it was not necessary and everything was on track. 
+It was also decided that we would meet him next week at regular time to finalize 
+which features will be delivered to him, because that is when we would have a cleraer idea. 
+
+#6:
+Date: March 16, 2017
+time: 11:30 a.m.
+Location: Geology Tim Hortons
+People present: Tushita (Project Lead), Kristof Mercier (Dev Lead)
+Purpose: Summarize deliverable to Conrad- requirements update.
+
+Summary:
+This meeting was held to give Conrad a clear picutre of what we will be able to deliver to him. The following points were highlighted:
+1. Navigation
+The navigation feature, which came into the requirements towards the end of ID2 will not be implemented - both in front-end and back-end, although it is setup in the database for each listing's locaton using latitude and longitude. 
+2. Facebook messaging
+The facebook messaging will be delivered, although it was also introduced as a requirement mid-way in the development process. 
+3. Code freeze
+The client was also notified that we will be doing a feature freeze in ID5 so this is the final decision. He seems to be okay with it.
+4. Easy to expand
+We ensured to him that although we are not delivering a few requirements, we will try our best to make it so that it would be easy to expand on the source code to add additional features and functionality to the app. 
