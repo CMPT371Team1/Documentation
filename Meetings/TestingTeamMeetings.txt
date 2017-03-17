@@ -33,3 +33,12 @@ Location: Spinks 372
 People present: ChrisJ, Ryan, Jeremy, Dylan
 Purpose: Assign tasks to all testers, set up Android testing environments, bug fixes and explanations with Dylan, get debug console for Android testing.
 Summary: All test team members will be working on their respective tasks during the weekend, and will send their work and documentation to Jeremy. Jeremy will review everything, and send all finalized documentation to Arianne on Sunday afternoon. Meeting was made shorter than usual due to commitments in other classes and ChrisJ's illness. Dylan came to the meeting to explain Android testing, the debug console, and certain bugs/do bug fixing for some of the bugs we had found prior to the meeting.
+
+#5
+Date: March 16th
+Start Time: 2:30 PM
+End Time: 6:40 PM
+Location: Spinks 371
+People present: ChrisJ, Ryan, Jeremy, Kristof, ChrisMR, Gaurav
+Purpose: Learn how to set-up, reset, and change test database from Gaurav, set up Jasmine Logging tool with ChrisMR on smoke tests and with testers for better logging while writing E2E tests, fix error in code refactoring, manually test in browser and Android phone, discuss bugs found to Dev lead Kristof.
+Summary: The first hour was spent trying to figure out why the ID4 branch was white-screening, as well as setting up the testers with the new database. Afterwards, we learned how to use the test database while doing manual tests in conjunction. ChrisMR helped Jeremy with integrating the new Jasmine logging tool into the smoke tests. The testers were also shown how to install the tool to their own machines, so that they can focus on writing highly descriptive tests. Manual tests were the primary focus of the meeting, finding as many bugs in all paths as possible, and noting what is working/what is not working as intended. Most bugs appeared to be back-end related, with a few issues concerning the front end. Only a couple of defects from previous ID's are still apparent, with most of them being eliminated. With time running short, tasks had been assigned to all testers to work on at home. Another test team meeting has been planned for Saturday afternoon, where we will do bug-fixes with some developers and clean up the code before the ID4 due date.
