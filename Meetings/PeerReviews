@@ -1,6 +1,7 @@
 Peer review #1 - Risks, Tushita Patel
 The first formal inspection was held on Tuesday, Jan 17 at 4:10 PM on Risk analysis. The inspection was led by Tushita Patel, the Project Lead because a Risk Officer was not yet assigned. 
-Because of shortage of time, the material could not be made available to all members several days before the day of the inspection. A rough copy of the Risk evaluation was shared with the group a day prior to the inspection and everybody was notified about this exception.
+Because of shortage of time, the material could not be made available to all members several days before the day of the inspection. 
+A rough copy of the Risk evaluation was shared with the group a day prior to the inspection and everybody was notified about this exception.
 First, the strategies to analyze risks were discussed as well as some key terms and their meanings such as Mitigation plans and Contingency plans. 
 Second, some of the risks that were pre-dentified were discussed, and mitigation and contingency plans for those risks were evaluated and noted.
 Third, attendees were encouraged to suggest more risks that were not covered. These risks were discussed in depth, along with their mitigation and contingency plans.
@@ -11,17 +12,37 @@ The Risk report was then passed on to Ryan to edit and turn into a well-document
 
 Peer review #2 - Schedule and Documentation Structure, Tushita Patel
 Date, time and location: Jan 27, 5:30 p.m. S371
-The schedule (timeline) for the entire coursework as well as the documentation structure was deemed necessary for the group to review. The goal was to re-inform the group about the setup as well as to get feedback for improvement in ease of usability and accessibility of these particulars as they should be frequently utilized. A final version was made available to the members seven days prior to the review to make it convenient for everybody to come prepared to the review. This inspection was led by Tushita Patel, who also created the timeline and documentation structure. During the inspection, upcoming deadlines and general format for each ID duration was finalized. The general format includes deadlines for development, risk report, risk scans, as well as suitable day for debriefing and client meetings. A date for a bug party was also decided to suit everybody's preferences - Saturday Feb 18. It was also decided that no major meetings would be held during the week after February break because of high priority on midterms. Additional deadlines for ID 4 and 5 - User Documentation, tutorials and final defect reports were also proposed and agreed upon by all team members.
+The schedule (timeline) for the entire coursework as well as the documentation structure was deemed necessary for the group to review. 
+The goal was to re-inform the group about the setup as well as to get feedback for improvement in ease of usability and accessibility of these particulars as they should be frequently utilized. 
+A final version was made available to the members seven days prior to the review to make it convenient for everybody to come prepared to the review. 
+This inspection was led by Tushita Patel, who also created the timeline and documentation structure. 
+During the inspection, upcoming deadlines and general format for each ID duration was finalized. 
+The general format includes deadlines for development, risk report, risk scans, as well as suitable day for debriefing and client meetings. 
+A date for a bug party was also decided to suit everybody's preferences - Saturday Feb 18. 
+It was also decided that no major meetings would be held during the week after February break because of high priority on midterms. 
+Additional deadlines for ID 4 and 5 - User Documentation, tutorials and final defect reports were also proposed and agreed upon by all team members.
 
 -----------
 
 Peer Review #3 - Design & UI, Dylan Prefontaine
-On February 10th at 3:30, Dylan held an inspection that covered the overall design of the front-end of our application. Although Dylan was not the only person who created the user interface, he was in charge of overlooking the front-end in this deliverable. Prior to this review we had a meeting with our client and some changes were outlined that he would like us to make to the current user interface. Since the changes our client made directly affected the content of the inspection, we first went over how to integrate his changes then continued the inspection. Everyone had lots of comments to make on the user interface and there were lots of open discussion about how we could improve the interface while keeping the changes our client made in mind. All of the UI changes discussed are documented here. Along with the changes to the UI, there were a few other minor changes to the data structures. We decided to inspect the user interface fairly early in the project because our goal for the deliverable was aimed towards familiarizing ourselves with the framework, and less time was put into building upon the design at that time.
+On February 10th at 3:30, Dylan held an inspection that covered the overall design of the front-end of our application. 
+Although Dylan was not the only person who created the user interface, he was in charge of overlooking the front-end in this deliverable. 
+Prior to this review we had a meeting with our client and some changes were outlined that he would like us to make to the current user interface. 
+Since the changes our client made directly affected the content of the inspection, we first went over how to integrate his changes then continued the inspection. 
+Everyone had lots of comments to make on the user interface and there were lots of open discussion about how we could improve the interface while keeping the changes our client made in mind. 
+All of the UI changes discussed are documented here. Along with the changes to the UI, there were a few other minor changes to the data structures. 
+We decided to inspect the user interface fairly early in the project because our goal for the deliverable was aimed towards familiarizing ourselves with the framework, and less time was put into building upon the design at that time.
 
 -----------
 
 Peer Review #4 - Testing plan, Jeremy Liau
-On Feb 13th, 3:30 PM, Jeremy held an inspection covering the testing plan for the current and future ID's. A template for Use Cases was shown to display the detailed test specifications between the transitions of the UI flow diagrams. End-to-end test progress was shown and demonstrated, noting that changes would be made to accomodate newly developed features in the coming ID. Issues with the unit test runner tool Karma were informed to the development team leaders, and questions to ask Prof. Osgood about unit testing were formulated. Plans to update the test matrix, defect report, flow diagrams, and use cases were given. The dev leads let the testers know about the extra time required for development, and that the testers would be receiving the code a day later than previously scheduled. Due to conflicts in schedules and other classes occuring during this review, another inspection covering the same topic will be held on Sat. Feb 18th for those who missed the first one.
+On Feb 13th, 3:30 PM, Jeremy held an inspection covering the testing plan for the current and future ID's. 
+A template for Use Cases was shown to display the detailed test specifications between the transitions of the UI flow diagrams. 
+End-to-end test progress was shown and demonstrated, noting that changes would be made to accomodate newly developed features in the coming ID. 
+Issues with the unit test runner tool Karma were informed to the development team leaders, and questions to ask Prof. Osgood about unit testing were formulated. 
+Plans to update the test matrix, defect report, flow diagrams, and use cases were given. 
+The dev leads let the testers know about the extra time required for development, and that the testers would be receiving the code a day later than previously scheduled. 
+Due to conflicts in schedules and other classes occuring during this review, another inspection covering the same topic will be held on Sat. Feb 18th for those who missed the first one.
 
 -----------
 
@@ -43,33 +64,68 @@ once I had to get to explaining that part.
 Peer Review #6 – Back-end API, Gaurav Arora
 Date, time and location: February 21st, 2:00pm S371
 
-Our first code review session was held on February 21, 2017 at 2:00 p.m. in Spinks S371. The author of this session was Gaurav Arora from the back-end development team. The artifact involved the Web API Document, an implementation of the Create_User API along with its unit test. All attendees were asked to come prepared with potential flaws prior to attending the review session, which were first discussed by three randomly chosen attendees - Dylan, Ryan and Justin. Afterwards, Justin and Ryan were asked to be the scribe for the session and ChrisJ volunteered to be the moderator for the session. Then, each of the documents were reviewed line by line by the committee and a total of 51 faults/errors/areas of improvement were discovered. After the session, the author, Gaurav was asked to modify the document and the code by February 23rd, along with Tushita’s help.
+Our first code review session was held on February 21, 2017 at 2:00 p.m. in Spinks S371. 
+The author of this session was Gaurav Arora from the back-end development team. 
+The artifact involved the Web API Document, an implementation of the Create_User API along with its unit test. 
+All attendees were asked to come prepared with potential flaws prior to attending the review session, which were first discussed by three randomly chosen attendees - Dylan, Ryan and Justin. 
+Afterwards, Justin and Ryan were asked to be the scribe for the session and ChrisJ volunteered to be the moderator for the session. 
+Then, each of the documents were reviewed line by line by the committee and a total of 51 faults/errors/areas of improvement were discovered. 
+After the session, the author, Gaurav was asked to modify the document and the code by February 23rd, along with Tushita’s help.
 
 -----------
 
 Peer Review #7: ID2 Documentation, Arianne Butler
 Date: February 23rd /17
-Summary: This code review was held in Spinks S371. The artifact was the ID2 Documentation as completed by Arianne. Tushita selected Justin, Chris May, and Ryan to share any faults or questions discovered during review of the document. Dylan volunteer to be the scribe and Arianne was the moderator. The inspection focused on review of the ID2 Documentation, which is split between two documents: Project Documentation and Process Documentation. The team discussed each section in detail, and revaluated the probability and loss elements of each risk in the Risk Assessment section. Feedback included a couple of minor errors, as well as several suggestions for improved formatting and readability. Arianne will incorporate these suggestions for ID3 documentation. 
+Summary: 
+This code review was held in Spinks S371. 
+The artifact was the ID2 Documentation as completed by Arianne. 
+Tushita selected Justin, Chris May, and Ryan to share any faults or questions discovered during review of the document. 
+Dylan volunteer to be the scribe and Arianne was the moderator. 
+The inspection focused on review of the ID2 Documentation, which is split between two documents: Project Documentation and Process Documentation. 
+The team discussed each section in detail, and revaluated the probability and loss elements of each risk in the Risk Assessment section. 
+Feedback included a couple of minor errors, as well as several suggestions for improved formatting and readability. 
+Arianne will incorporate these suggestions for ID3 documentation. 
 
 -----------
 
 Inspection 8: ID3 Back-end Code, Kristof Mercier
 Date: February 23rd /17
-Summary: This code review was held in Spinks S371. The artifacts reviewed were the signIn and changePassword API calls, along with their individual unit tests. Tushita selected Justin, Tian, and Chris MR to share any faults or questions discovered during their pre-inspection artifact review. Dylan volunteered to be the moderator, and Tian and Justin both acted as scribes. After preliminary concerns were documented, the group went through each of the files line by line, documenting issues and potential improvements. Suggestions included new external functions to reduce code duplication, the addition of a few minor test cases, and improvements to readability and commenting. The development team as a whole was able to communicate which new functions could be used in place of repeated code.
+Summary: 
+This code review was held in Spinks S371. 
+The artifacts reviewed were the signIn and changePassword API calls, along with their individual unit tests. 
+Tushita selected Justin, Tian, and Chris MR to share any faults or questions discovered during their pre-inspection artifact review. 
+Dylan volunteered to be the moderator, and Tian and Justin both acted as scribes. 
+After preliminary concerns were documented, the group went through each of the files line by line, documenting issues and potential improvements. 
+Suggestions included new external functions to reduce code duplication, the addition of a few minor test cases, and improvements to readability and commenting. 
+The development team as a whole was able to communicate which new functions could be used in place of repeated code.
 
 -----------
 
 Peer Review #9 – Back-end listing-related APIs
 Date, time and location: March 6th, 3:30pm S371
 
-The code review session was held on March 6, 2017 at 3:30pm in Spinks S371. The author of this session was Melody Zhao from the back-end development team. The artifact involved the implementation of creating a listing, like/dislike a listing and get filtered listings, as well as corresponding uint tests. All attendees were asked to come prepared with potential flaws prior to attending the review session. Afterwards, Kristof was asked to be the scribe for the session and ChrisMR volunteered to be the moderator for the session. Then, each of the documents were reviewed line by line by the committee and a total of 47 faults/errors/areas of improvement were discovered. After the session, the author, Melody was asked to modify the document and the code.
+Summar:
+The code review session was held on March 6, 2017 at 3:30pm in Spinks S371. 
+The author of this session was Melody Zhao from the back-end development team. 
+The artifact involved the implementation of creating a listing, like/dislike a listing and get filtered listings, as well as corresponding uint tests. 
+All attendees were asked to come prepared with potential flaws prior to attending the review session. 
+Afterwards, Kristof was asked to be the scribe for the session and ChrisMR volunteered to be the moderator for the session. 
+Then, each of the documents were reviewed line by line by the committee and a total of 47 faults/errors/areas of improvement were discovered. 
+After the session, the author, Melody was asked to modify the document and the code.
 
 -----------
 
 Peer Review #10 - Protractor e2e Test
 Date, Time and Location: March 13th, 3:30pm Spinks
 
-The code review session was held on March 13th, 2017 at 3:30 in Spinks. The author of this session was Christopher May from the testing team. The artifact involved was the implementation of the filter screen e2e testing and the related Use Case. All attendees were asked to come with potential flaws prior to attending the review session. Gurauv who was not able to attend sent his in the peer review documentation Google Doc. Kristof and Arianne were the Moderator and Scribe respectively. The Issues were brought up and discussed. Afterwards each of the documents were revied line by line by the committee and a total of 12 faults/errors/areas of improvement were discouvered and discussed. After the session, the author was asked to modify the reviewed material.                                                                                                                                                                                                                     
+The code review session was held on March 13th, 2017 at 3:30 in Spinks. 
+The author of this session was Christopher May from the testing team. 
+The artifact involved was the implementation of the filter screen e2e testing and the related Use Case. 
+All attendees were asked to come with potential flaws prior to attending the review session. 
+Gurauv who was not able to attend sent his in the peer review documentation Google Doc. 
+Kristof and Arianne were the Moderator and Scribe respectively. The Issues were brought up and discussed. 
+Afterwards each of the documents were revied line by line by the committee and a total of 12 faults/errors/areas of improvement were discouvered and discussed. 
+After the session, the author was asked to modify the reviewed material.                                                                                                                                                                                                                     
 
 -----------
 
@@ -85,5 +141,6 @@ First, the MyListings page was reviewed and a total of 11 errors/areas of improv
 Second, the AddListing page was reviewed and a total of 14 errors/areas of improvement were discovered and discussed.
 Lastly, the trello board setup was quickly reviewed and a tutorial of steps was given so that every member could start doing Code Policing at their own time without any confusions.
 After the session, the author was asked to modify the reviewed material.                                                                                                                                                                                                                     
-This was the last formal inspection of the term. However, all members are asked to continue to do informal reviews of other people's artifacts at their own time and pace through the Trello Peer-Review board.
+This was the last formal inspection of the term. 
+However, all members are asked to continue to do informal reviews of other people's artifacts at their own time and pace through the Trello Peer-Review board.
 
