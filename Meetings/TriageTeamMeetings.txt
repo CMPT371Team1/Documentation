@@ -128,3 +128,105 @@ The following build related tasks were not completed for ID3:
 -	Smoke tests for iOS and Android 
 -	Browser smoke tests for Chrome 
 
+-----------------------------------------------------------------------------------------------------------
+
+#4
+
+Date: Friday, March 17th /17
+Start Time: 1:30pm
+End Time: 1:25pm
+Location: Spinks320
+
+Members Present: Tushita Patel (Project Lead), Kristof Mercier (Dev lead), Jeremy Liau (Test Lead), Chris Mykota-Reid (Build Manager)
+
+
+Summary:
+
+Development:
+All of the tasks in the trello card are implemented except for:
+1.	No Google maps integrations with front-end and back-end – although it is setup for database
+2.	No viewer->owner messaging on front-end, but API implemented on backend
+3.	Don’t have “forgot password” feature implemented in back-end and front-end.
+Because we have decided to do a feature freeze for ID5, the team has decided to abandon these requirements. There requirements will not be delivered to the client. 
+Testing:
+1.	All tests are going to be performed. 
+2.	The testing team also finalized plans for acceptance testing and hallway testing. 
+
+Bugs / Defects:
+
+All bugs with high priority are going to be aimed to be fixed by the end of ID4 (Sunday, March 19, 2017).
+All bugs with medium priority will be aimed to be fixed before the Bug Party on Wednesday, March 22, 2017.
+All bugs with low priority will be postponed to be fixed in the next two weeks.
+
+Format:
+#	STI	
+       Decision	
+       Severity	
+       Priority
+       
+1.	Bathroom filter stops functionality of the other filters.
+	This STI is probably appearing because of lack of testing in the back-end. It is not too important, but might be tricky to fix.         This bug should be postponed for latter ID5.	
+    Low	
+    Low
+2.	Liking and disliking while not signed in returns a runtime error on details page.	Although this is an important fix, it is             estimated that this fix would take a long time to be fixed. It is best to postpone this fix.	
+    High	
+    Low
+3.	Liking and disliking a listing when you are not signed in and swiping on it should reset it to the default position.	
+    This is a front-end bug and could be easily fixed. It is a commonly occurring bug for most users and should be considered a priority     bug for acceptance.	
+    High	
+    High
+4.	Save and the sign-out button on the My Profile page while signed-in are not working.	
+    Although of high importance, this STI could be postponed to early next week because there are other potential bugs that should be   fixed first.	
+    High	
+    Medium
+5.	Facebook is not implemented on the front-end.	This issue might not be too tricky to fix, although it is important to the client.  We should consider this of medium priority.	
+    Low	
+    Medium
+6.	Browse page doesn’t add more listings to the cycle when you liked/dislike a listing – when signed in	
+This is an important issue because it is a major feature and should be fixed as soon as possible.  	
+    High	
+    High
+7.	No refresh after every sign in.
+	Might be an easy fix. Not an important issue and shouldn’t require to be fixed right away.	
+    Low	
+    Low
+8.	Disliking on the browse page still moves the listing to favourites.
+
+	Might be an easy fix. Although severe, it is of lower priority as compared to other STIs.  	High	Medium
+9.	Add lisitng -can’t publish listings right now.  
+	Might be the same problem as postal code. Quite severe. Should be fixed as soon as possible.	
+    High	
+    High
+       
+10.	Should have a pop-up saying an image is required when publishing listing without at least one image. Currently not displayed. 
+	Might be an easy fix. Not too sever either.	
+       Low	
+       Low
+11.	Should add the edit buttons when we have My Listings page/ Favourites page.	Swiping left to get options to delete/edit a listing is not intuitive. This is a potential design change. Not at all a priority right now.	
+    Low	
+    Low
+12.	“Missing Postal code” even when it’s there.
+	Fixing of this STI depends on 9. In fact, this might be the same bug as 9. Depending on when 9 gets fixed, this bug shall be tracked after 9 is fixed.	
+       Low	
+       Unknown
+13.	Cannot remove listings from your favourites list. Reappears. 	
+       Might be the same bug as 8. 	
+       High	
+       Medium
+14.	When registering a user on android, the text fields will scroll all the way up. 
+	This bug was identified at the end of ID3. It could not be fixed yet, but the team should prioritize on fixing this soon.                Although of high severity, this bug is not expected to be fixed by the end of ID4. 	
+       High	
+       Medium
+
+
+Build:
+1.	Troubleshooted issues – regressions that came up. 
+2.	Added test servers to the implementation
+3.	Reset the test servers before front-end end-to-end smoke tests are run. 
+4.	Shared knowledge with Gaurav during PP sessions. 
+5.	Chrome smoke tests removed, which had to be removed because of increasing complexity and bugs.
+6.	Added installation of jasmine spec reporter to the build. 
+7.	Added if-statements to the build to make less manual modifications for the release. 
+8.	Still looking into Style Checking, automated github releases. 
+9.	Paths to the modules need to be updated.
+
