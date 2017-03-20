@@ -19,7 +19,7 @@ Documentation Manager a.k.a "Doc Lady": Arianne Butler
 
 #### Smoke Test Build Status:
 Please click here:&nbsp;
-  [![Coverage Status](https://travis-ci.org/CMPT371Team1/Project.svg?branch=id5)](https://travis-ci.org/CMPT371Team1/Project)
+  [![Lol sup mom](https://travis-ci.org/CMPT371Team1/Project.svg?branch=id5)](https://travis-ci.org/CMPT371Team1/Project)
 
 ---
 
